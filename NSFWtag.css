@@ -5,7 +5,7 @@
 * @description A tag for 'NFSW' channels so they are easier to see/notice
 */
 
-/*note: you must have the redesign icom experiment disabled for this too work*/
+/*note: you must have the redesign icon experiment disabled for this too work*/
 
 [class*=linkTop_]:has(> [class*=iconContainer__] [d^="M18.09 1.63"]) > [class*=children_]::after {
     content: "NSFW";
