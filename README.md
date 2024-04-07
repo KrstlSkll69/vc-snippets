@@ -10,5 +10,5 @@ recolors the triangle of an 'NSFW' channel
 
 ----
 
-2nd: Private Channel Recolor;
+3rd: Private Channel Recolor:
 recolors the lock icon of a private channel
