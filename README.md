@@ -2,5 +2,4 @@
 
 1st: NSFW channel tag:
 
-Adds a small RED text box, that says  NSFW next to those type channels
-NEW: Also recolors the small triangle in the icon to also be red
+Adds a small RED text box, that says NSFW next to those type channels. Now also recolors the small triangle in the icon to be red.
