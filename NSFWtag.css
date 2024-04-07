@@ -2,11 +2,12 @@
 * @name NFSWtag
 * @author ryan.0324, krystalskullofficial
 * @version 2.0
-* @description A tag for 'NFSW' channels so they are easier to see/notice
+* @description A tag for 'NFSW' channels so they are easier to see/notice. Also now recolors the small triangle too be red
 */
 
 /*note: you must have the redesign icon experiment disabled for this too work*/
 
+/*---Label---*/
 [class*=linkTop_]:has(> [class*=iconContainer__] [d^="M18.09 1.63"]) > [class*=children_]::after {
     content: "NSFW";
     background: var(--status-danger-background);
@@ -19,3 +20,9 @@
     line-height: 16px;
     margin-left: 4px;
 }
+
+/*---Icon Recolor---*/
+.icon__67ab4:has(path[d^="M18.09 1.63"]) path[d^="M18.09 1.63"] {
+    fill: var(--text-danger) !important;
+    border: 1px solid rebeccapurple !important;
+  }
