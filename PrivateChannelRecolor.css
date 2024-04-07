@@ -1,3 +1,9 @@
+/**
+* @name Private Channel recolor
+* @author krystalskullofficial
+* @version 2.0
+* @description recolors the icon for Private channels so they are easier to see/notice
+*/
 
 /*---Lock Icon Recolor---*/
 .icon__67ab4:has(path[d^="M16 4h.5v"]) path[d^="M16 4h.5v"] {
