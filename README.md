@@ -26,6 +26,7 @@ recolors the lock icon of a private channel
 
 BEFORE AND AFTER 
 (hopfully you can tell which is which)
+
 ![beforerecolor](https://github.com/KrstlSkll69/vc-snippets/assets/150982280/67802ae7-e3bb-4942-bc83-3d701d1e9be0)
 ![afterrecolor](https://github.com/KrstlSkll69/vc-snippets/assets/150982280/52dce3e0-3119-482f-9ddd-4b0056315933)
 
@@ -35,6 +36,7 @@ recolors the icon on Channel & Role tab so they are easier to see/notice
 
 BEFORE AND AFTER 
 (hopfully you can tell which is which)
+
 ![beforerecolorChannels Roles recolor](https://github.com/KrstlSkll69/vc-snippets/assets/150982280/add2e384-c1e4-43c6-a29c-374d3875ee4f)
 ![afterrecolorChannels Roles recolor](https://github.com/KrstlSkll69/vc-snippets/assets/150982280/6055801a-915b-4035-8376-e45b7cdf1417)
 
