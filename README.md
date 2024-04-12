@@ -3,6 +3,9 @@
 1st: NSFW channel tag:
 Adds a small RED text box, that says NSFW next to those type channels. Now also recolors the small triangle in the icon to be red.
 
+BEFORE AND AFTER 
+(hopfully you can tell which is which)
+
 ![beforerecoloandmarkerrNSFW](https://github.com/KrstlSkll69/vc-snippets/assets/150982280/94112463-c611-4f3e-9161-a3ed77dfb443)
 ![afterrecoloandmarkerrNSFW](https://github.com/KrstlSkll69/vc-snippets/assets/150982280/776e5923-82a8-4684-b4a3-b04d80ce25ee)
 
