@@ -31,6 +31,7 @@ BEFORE AND AFTER
 (hopfully you can tell which is which)
 
 ![beforerecolor](https://github.com/KrstlSkll69/vc-snippets/assets/150982280/67802ae7-e3bb-4942-bc83-3d701d1e9be0)
+
 ![afterrecolor](https://github.com/KrstlSkll69/vc-snippets/assets/150982280/52dce3e0-3119-482f-9ddd-4b0056315933)
 
 ---- 
