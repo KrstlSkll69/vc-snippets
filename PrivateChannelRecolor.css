@@ -1,7 +1,7 @@
 /**
 * @name Private Channel recolor
 * @author krystalskullofficial
-* @version 2.0
+* @version 3.0
 * @description recolors the icon for Private channels so they are easier to see/notice
 */
 
@@ -9,4 +9,10 @@
 .icon__67ab4:has(path[d^="M16 4h.5v"]) path[d^="M16 4h.5v"] {
     fill: #fffaa0 !important;
     border: 1px solid rebeccapurple !important;
+}
+
+/*---for stages(since they use a differnt lock for some reason)----*/
+.icon__67ab4:has(path[d^="M16.5 18H16a1"]) path[d^="M16.5 18H16a1"] {
+    color: #fffaa0 !important;
+    border: 1px solid rebeccapurple !important;
 }
