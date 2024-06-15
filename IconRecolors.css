@@ -1,0 +1,30 @@
+/**
+* @name IconRecolors
+* @author krystalskullofficial (and maybe byeoon)
+* @version 3.0
+* @description Recolors channel icons to make them easier to notice.
+*/
+
+/*--- Icon Recolor---*/
+.icon__67ab4:has(path[d^="M18.5 23c.88"]) path[d^="M18.5 23c.88"] {
+    color: var(--green-360) !important;
+    border: 1px solid rebeccapurple !important;
+}
+
+/*---'NSFW' Icon Recolor---*/
+.icon__67ab4:has(path[d^="M18.09 1.63"]) path[d^="M18.09 1.63"] {
+    fill: var(--text-danger) !important;
+    border: 1px solid rebeccapurple !important;
+}
+
+/*---Lock Icon Recolor---*/
+.icon__67ab4:has(path[d^="M16 4h.5v"]) path[d^="M16 4h.5v"] {
+    fill: #fffaa0 !important;
+    border: 1px solid rebeccapurple !important; 
+}
+
+/*---Stages Icon (since they use a differnt lock for some reason)----*/
+.icon__67ab4:has(path[d^="M16.5 18H16a1"]) path[d^="M16.5 18H16a1"] {
+    fill : #fffaa0 !important;
+    border: 1px solid rebeccapurple !important;
+}
