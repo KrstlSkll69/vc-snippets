@@ -8,7 +8,7 @@
 /*note: you must have the redesign icon experiment disabled for this too work*/
 
 /*---'NSFW' Label---*/
-[class*=linkTop_]:has([class*=iconContainer__] [d^="M18.09 1.63"]) > [class*=children_]::after {
+[class*=linkTop_]:has([class*=iconContainer_] [d^="M18.09 1.63"]) > [class*=children_]::after {
     content: "NSFW"; 
     background: var(--status-danger-background);
     color: var(--status-danger-text);
