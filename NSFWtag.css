@@ -1,7 +1,7 @@
 /**
 * @name NFSWtag
 * @author ryan.0324, krystalskullofficial
-* @version 2.0
+* @version 3.0
 * @description A tag for 'NFSW' channels so they are easier to see/notice. Also now recolors the small triangle too be red
 */
 
@@ -22,7 +22,7 @@
 }
 
 /*---Warning Icon Recolor---*/
-.icon__67ab4:has(path[d^="M18.09 1.63"]) path[d^="M18.09 1.63"] {
+.icon_d8bfb3:has(path[d^="M18.09 1.63"]) path[d^="M18.09 1.63"] {
     fill: var(--text-danger) !important;
     border: 1px solid rebeccapurple !important;
   }
