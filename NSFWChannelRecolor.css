@@ -8,7 +8,7 @@
 
 /*---'NSFW' Icon Recolor---*/
 
-.icon__67ab4:has(path[d^="M18.09 1.63"]) path[d^="M18.09 1.63"] {
+.icon__d8bfb3:has(path[d^="M18.09 1.63"]) path[d^="M18.09 1.63"] {
     fill: var(--text-danger) !important;
     border: 1px solid rebeccapurple !important;
   }
