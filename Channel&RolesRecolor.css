@@ -10,8 +10,3 @@
     color: var(--green-360) !important;
     border: 1px solid rebeccapurple !important;
 }
-
-/*--- Chat Icon Recolor ----*/
-.icon_e44302 path[d^="M18.5 23c.88"] {
-fill: var(--green-360) !important;
-}
