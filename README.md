@@ -1,6 +1,6 @@
 # VC-css_snippets
 # Important - Fixed Code/Learned new skill icons are now recolored on both the channel lists and on top of the chat
-*(still playing around with 'NSFW' label to make label show up on top of chat so that'll be updated at a later time
+*(still playing around with 'NSFW' label to make label show up on top of chat so that'll be updated at a later time)*
 
 1st: NSFW Channel Tag:
 Adds a small RED text box that says NSFW next to those channels and also colors the red warning icon.
