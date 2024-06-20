@@ -30,8 +30,6 @@
 /*--------------*/
 
 /*---'NSFW' Chat List Label---*/
-
-[class*=linkTop_]:has(> [class*=iconContainer_] [d^="M18.09 1.63"]) > [class*=children_]::after,
 [class*=iconWrapper_]:has([d^="M18.09 1.63"]) ~ [class*=titleWrapper_] h1::after {
     content: "NSFW";
     background: var(--status-danger-background);
@@ -42,7 +40,7 @@
     font-weight: 700;
     letter-spacing: .02em;
     line-height: 16px;
-    margin-left: 7px;
+    margin-left: 4px;
 }
 
 /*--- Chat Icon Recolor ---*/
