@@ -16,9 +16,3 @@
 .icon_e44302 path[d^="M18.09 1.63"] {
   fill: var(--text-danger) !important;
 }
-
-
-/*--- Chat Icon Recolor ---*/
-.icon_e44302 path[d^="M18.09 1.63"] {
-  fill: var(--text-danger) !important;
-}
