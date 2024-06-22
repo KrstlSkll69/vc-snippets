@@ -2,7 +2,8 @@
 Important - 
 1. Fixed Code/Learned new skill icons are now recolored on both the channel lists and on top of the chat
 2. As per a request 'NSFW' Label now appears that top of chat
-
+----
+Disclaimer: While yes my CSS snippets are in [Fafa's ThemeLibrary](https://github.com/Faf4a/plugins/tree/main/userplugins/ThemeLibrary) they use `@imports` that lead here
 ----
 
 1st: NSFW Channel Tag:
