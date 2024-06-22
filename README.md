@@ -3,8 +3,6 @@ Important -
 1. Fixed Code/Learned new skill icons are now recolored on both the channel lists and on top of the chat
 2. As per a request 'NSFW' Label now appears that top of chat
 ----
-Disclaimer: While yes my CSS snippets are in [Fafa's ThemeLibrary](https://github.com/Faf4a/plugins/tree/main/userplugins/ThemeLibrary) they use `@imports` that lead here
-----
 
 1st: NSFW Channel Tag:
 Adds a small RED text box that says NSFW next to those channels and also colors the red warning icon.
@@ -41,6 +39,7 @@ BEFORE AND AFTER:
 ![afterrecolor](https://github.com/KrstlSkll69/vc-snippets/assets/150982280/52dce3e0-3119-482f-9ddd-4b0056315933)
 
 ---- 
+
 4th: Channels & Roles Recolor:
 Recolors the icon on Channel & Role tab so they are easier to see/notice
 
@@ -50,8 +49,15 @@ BEFORE AND AFTER:
 ![beforerecolorChannels Roles recolor](https://github.com/KrstlSkll69/vc-snippets/assets/150982280/add2e384-c1e4-43c6-a29c-374d3875ee4f)
 ![afterrecolorChannels Roles recolor](https://github.com/KrstlSkll69/vc-snippets/assets/150982280/6055801a-915b-4035-8376-e45b7cdf1417)
 
----- 
+----
+
 5th: IconRecolors
 Recolors all the icons so that you don't need 3 different snippets for it.
+
+----
+ 
+<span style="font-size:0.5em;">Disclaimer: While yes my CSS snippets are in [Fafa's ThemeLibrary](https://github.com/Faf4a/plugins/tree/main/userplugins/ThemeLibrary) they use `@imports` that lead here</span>
+
+
 
 
