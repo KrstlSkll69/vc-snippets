@@ -3,7 +3,7 @@ Important -
 1. Fixed Code/Learned new skill icons are now recolored on both the channel lists and on top of the chat
 2. As per a request 'NSFW' Label now appears that top of chat
 3. There is no icon diff for a stage marked 'NSFW' on desktop so those arnt labeled *(until i find a way to label them)*
-4. People have been asking for this on Vendetta/Pyoncord(Bunny) and for those people id like to point you too (NexxUtils)[https://bunny.nexpid.xyz/nexxutils/]
+4. People have been asking for this on Vendetta/Pyoncord(Bunny) and for those people id like to point you too {NexxUtils](https://bunny.nexpid.xyz/nexxutils/)
 - About Enmity
 I dont know about nor do i care about Enmity *(If you do and this exist for it feel free to open a issue an tell me then ill add it here 
 
