@@ -23,7 +23,7 @@
 
 /*---Channel list Icon Recolor---*/
 .icon_d8bfb3:has(path[d^="M18.09 1.63"]) path[d^="M18.09 1.63"] {
-    fill: var(--text-danger) !important;
+    fill: var(--status-danger-background) !important;
     border: 1px solid rebeccapurple !important;
   }
 
@@ -45,5 +45,5 @@
 
 /*--- Chat Icon Recolor ---*/
 .icon_e44302 path[d^="M18.09 1.63"] {
-    fill: var(--text-danger) !important;
+    fill: var(--status-danger-background) !important;
   } 
