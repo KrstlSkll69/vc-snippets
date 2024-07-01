@@ -63,7 +63,7 @@ Recolors all the icons so that you don't need 3 different snippets for it.
 
 ----
  
-<span style="font-size:0.5em;">Disclaimer: While yes my CSS snippets are in [Fafa's ThemeLibrary](https://github.com/Faf4a/plugins/tree/main/userplugins/ThemeLibrary) they use `@imports` that lead here, so i cant guarantee problems/issues with them </span>
+<span style="font-size:0.5em;">Disclaimer: While yes my CSS snippets are in [Faf4's ThemeLibrary](https://github.com/Faf4a/ThemeLibrary) they use `@imports` that lead here, so i cant guarantee no problems/issues with them </span>
 
 
 
