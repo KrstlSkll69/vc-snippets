@@ -1,4 +1,6 @@
 # VC-css_snippets
+# These Css Snippets where built to work with Vencord, so iam unsure if they will work with other client mods
+
 Important - 
 1. Fixed Code/Learned new skill icons are now recolored on both the channel lists and on top of the chat
 2. As per a request 'NSFW' Label now appears that top of chat
