@@ -12,6 +12,11 @@
 }
 
 /*--- Chat Icon Recolor ---*/
+.icon_fc4f04 path[d^="M18.5 23c.88"] {
+    fill: var(--green-360) !important;
+}
+
+/*--- Chat (older) Icon Recolor ---*/
 .icon_e44302 path[d^="M18.5 23c.88"] {
     fill: var(--green-360) !important;
 }
