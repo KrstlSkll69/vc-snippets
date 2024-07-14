@@ -7,7 +7,7 @@
 
 /*note: you must have the redesign icon experiment disabled for this too work*/
 
-/*---Channel list 'NSFW' Label---*/
+/*--- Channel list 'NSFW' Label ---*/
 [class*=linkTop_]:has([class*=iconContainer_] [d^="M18.09 1.63"]) > [class*=children_]::after {
     content: "NSFW"; 
     background: var(--status-danger-background);
@@ -21,7 +21,7 @@
     margin-left: 4px;
 }
 
-/*---Channel list Icon Recolor---*/
+/*--- Channel list Icon Recolor ---*/
 .icon_d8bfb3:has(path[d^="M18.09 1.63"]) path[d^="M18.09 1.63"] {
     fill: var(--status-danger-background) !important;
     border: 1px solid rebeccapurple !important;
@@ -29,7 +29,7 @@
 
 /*--------------*/
 
-/*---'NSFW' Chat List Label---*/
+/*--- 'NSFW' Chat Label ---*/
 [class*=iconWrapper_]:has([d^="M18.09 1.63"]) ~ [class*=titleWrapper_] h1::after {
     content: "NSFW";
     background: var(--status-danger-background);
@@ -52,3 +52,10 @@
 .icon_e44302 path[d^="M18.09 1.63"] {
     fill: var(--status-danger-background) !important;
   } 
+  
+/*-------------*/ 
+
+/*--- 'NSFW' Message Bar Icon Recolor ---*/
+.icon_f23da8 path[d^="M18.09 1.63"] {
+  fill: var(--status-danger-background) !important;
+}
