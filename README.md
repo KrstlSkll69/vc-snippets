@@ -17,8 +17,8 @@ Adds a small RED text box that says NSFW next to those channels and also colors 
 BEFORE AND AFTER:
 (hopfully you can tell which is which)
 
-![beforerecoloandmarkerrNSFW](https://github.com/KrstlSkll69/vc-snippets/assets/150982280/94112463-c611-4f3e-9161-a3ed77dfb443)
-![afterrecoloandmarkerrNSFW](https://github.com/KrstlSkll69/vc-snippets/assets/150982280/776e5923-82a8-4684-b4a3-b04d80ce25ee)
+![beforerecoloandmarkerrNSFW](https://cdn.nest.rip/uploads/0a42a8f3-3bfb-4ce0-95f9-0cd59ec5ae32.png)
+![afterrecoloandmarkerrNSFW](https://cdn.nest.rip/uploads/591db449-e2ab-4376-95b9-a10b2d1a4a90.png)
 
 
 ----
