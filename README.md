@@ -43,7 +43,7 @@ BEFORE AND AFTER:
 
 ![beforerecolor](https://github.com/KrstlSkll69/vc-snippets/assets/150982280/67802ae7-e3bb-4942-bc83-3d701d1e9be0)
 
-![afterrecolor](https://cdn.nest.rip/uploads/0b99386d-180c-41a1-bca6-722150077f3d.png)
+![afterrecolor](https://cdn.nest.rip/uploads/05c9a3f8-3fb2-4fd2-a2c3-4f57aaff7102.png)
 
 ---- 
 
