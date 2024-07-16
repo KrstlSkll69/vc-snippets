@@ -25,3 +25,8 @@
 .icon_f23da8 path[d^="M18.09 1.63"] {
     fill: var(--status-danger-background) !important;
 }
+
+/*--- Werid 'NSFW' Thread Icon Message Bar Icon Recolor ---*/
+.icon_f23da8 path[d^="M18.09 15.63c.4-.7" ] {
+    fill: var(--status-danger-background) !important;
+}
