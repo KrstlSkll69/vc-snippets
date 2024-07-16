@@ -56,7 +56,7 @@ BEFORE AND AFTER:
 
 ----
 
-5th: Channels & Roles Recolor:
+5th: Stage Icon Recolor:
 Recolors the icon For Stages so they are easier to see/notice
 
 BEFORE AND AFTER:
