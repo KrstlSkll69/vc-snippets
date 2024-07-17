@@ -22,21 +22,11 @@
 }
 
 /*--- 'NSFW' Message Bar Icon Recolor ---*/
-.icon_f23da8 path[d^="M18.09 1.63"] {
-    fill: var(--status-danger-background) !important;
-}
-
-/*--- 'NSFW' Thread Icon Chat Icon Recolor ---*/
-.icon_fc4f04 path[d^="M18.09 15.63c.4-.7"] {
-    fill: var(--status-danger-background) !important;
-}
-
-/*--- 'NSFW' Thread Icon Chat Icon 2 Recolor ---*/
-.icon_ec583a path[d^="M18.09 15.63c.4-.7"] {
+.icon_bcc24e path[d^="M18.09 1.63"] {
     fill: var(--status-danger-background) !important;
 }
 
 /*--- 'NSFW' Thread Icon Message Bar Icon Recolor ---*/
-.icon_f23da8 path[d^="M18.09 15.63c.4-.7" ] {
+.icon_bcc24e path[d^="M18.09 15.63c.4-.7" ] {
     fill: var(--status-danger-background) !important;
 }

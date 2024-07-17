@@ -21,8 +21,8 @@
     fill: var(--green-360) !important;
 }
 
-/*--- Channels&Roles Message Bar Icon Recolor ---*/ 
-.icon_f23da8 path[d^="M18.5 23c.88" ] {
+/*--- Channels&Roles Message bar Channels ---*/
+.icon_bcc24e path[d^="M18.5 23c.88" ] {
     fill: var(--green-360) !important;
 }
 
@@ -54,13 +54,13 @@
     fill: var(--status-danger-background) !important;
 }
 
-/*--- 'NSFW' Thread Icon Chat Icon 2 Recolor ---*/
-.icon_ec583a path[d^="M18.09 15.63c.4-.7"] {
+/*--- 'NSFW' Message Bar Icon Recolor ---*/
+.icon_bcc24e path[d^="M18.09 1.63"] {
     fill: var(--status-danger-background) !important;
 }
 
 /*--- 'NSFW' Thread Icon Message Bar Icon Recolor ---*/
-.icon_f23da8 path[d^="M18.09 15.63c.4-.7" ] {
+.icon_bcc24e path[d^="M18.09 15.63c.4-.7" ] {
     fill: var(--status-danger-background) !important;
 }
 /*-------------------------------------------------------------------------------------------------------------------*/
@@ -86,11 +86,10 @@
     fill: var(--yellow-200) !important;
 }
 
-/*--- Message bar Channels ---*/
-.icon_f23da8 path[d^="M16 4h.5v"] {
+/*--- Lock Thread Icon Message Bar Icon Recolor ---*/
+.icon_bcc24e path[d^="M16 18h.5v"] {
     fill: var(--yellow-200) !important;
 }
-
 /*-------------------------------------------------------------------------------------------------------------------*/
 
 /*--- Channel List Outer Circle Icon Recolor ---*/
