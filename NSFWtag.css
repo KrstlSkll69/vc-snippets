@@ -56,6 +56,6 @@
 /*-------------*/ 
 
 /*--- 'NSFW' Message Bar Icon Recolor ---*/
-.icon_f23da8 path[d^="M18.09 1.63"] {
+.icon_bcc24e path[d^="M18.09 1.63"] {
   fill: var(--status-danger-background) !important;
 }
