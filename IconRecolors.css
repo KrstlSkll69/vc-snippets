@@ -86,6 +86,11 @@
     fill: var(--yellow-200) !important;
 }
 
+/*--- Lock Icon Message Bar Channels ---*/
+.icon_bcc24e path[d^="M16 4h.5v"] {
+    fill: var(--yellow-200) !important;
+}
+
 /*--- Lock Thread Icon Message Bar Icon Recolor ---*/
 .icon_bcc24e path[d^="M16 18h.5v"] {
     fill: var(--yellow-200) !important;
