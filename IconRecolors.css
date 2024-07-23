@@ -25,7 +25,6 @@
 .icon_bcc24e path[d^="M18.5 23c.88" ] {
     fill: var(--green-360) !important;
 }
-
 /*-------------------------------------------------------------------------------------------------------------------*/
 
 /*--- 'NSFW' Channel List Icon Recolor ---*/
@@ -61,6 +60,11 @@
 
 /*--- 'NSFW' Thread Icon Message Bar Icon Recolor ---*/
 .icon_bcc24e path[d^="M18.09 15.63c.4-.7" ] {
+    fill: var(--status-danger-background) !important;
+}
+
+/*--- Ping Warning ---*/
+.ping_c02c63 path[d^="M18.09 14.63c.4-.7"] {
     fill: var(--status-danger-background) !important;
 }
 /*-------------------------------------------------------------------------------------------------------------------*/
