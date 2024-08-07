@@ -19,7 +19,9 @@ BEFORE AND AFTER:
 ![before-recoloandmarkerNSFW](https://cdn.nest.rip/uploads/0a42a8f3-3bfb-4ce0-95f9-0cd59ec5ae32.png)
 ![after-recoloandmarkerrNSFW](https://cdn.nest.rip/uploads/591db449-e2ab-4376-95b9-a10b2d1a4a90.png)
 
-
+```
+https://krstlskll69.github.io/vc-snippets/NSFWtag.css
+```
 ----
 
 2nd: NSFW Channel Recolor:
@@ -31,7 +33,9 @@ BEFORE AND AFTER:
 ![before-recolorNSFW](https://github.com/KrstlSkll69/vc-snippets/assets/150982280/d3b57ff4-bb3d-40fa-a642-11f1741cd9a4)
 ![after-recolorNSFW](https://cdn.nest.rip/uploads/0b99386d-180c-41a1-bca6-722150077f3d.png)
 
-
+```
+https://krstlskll69.github.io/vc-snippets/NSFWChannelRecolor.css
+```
 ----
 
 3rd: Private Channel Recolor:
@@ -43,6 +47,9 @@ BEFORE AND AFTER:
 ![before-recolor](https://cdn.nest.rip/uploads/0f153f1c-b5cb-4197-a118-4f51ced76805.png)
 ![after-recolor](https://cdn.nest.rip/uploads/31c36485-10ab-497b-82a0-b6f0e609e9af.png)
 
+```
+https://krstlskll69.github.io/vc-snippets/PrivateChannelRecolor.css
+```
 ---- 
 
 4th: Channels & Roles Recolor:
@@ -54,6 +61,9 @@ BEFORE AND AFTER:
 ![before-recolor](https://cdn.nest.rip/uploads/d3102314-0165-409e-9da5-7888747f0a58.png)
 ![after-recolor](https://cdn.nest.rip/uploads/b6ff195c-b757-4bc2-bada-57d4936bae0a.png)
 
+```
+https://krstlskll69.github.io/vc-snippets/Channel&RolesRecolor.css
+```
 ----
 
 5th: Stage Icon Recolor:
@@ -65,11 +75,18 @@ BEFORE AND AFTER:
 ![beforerecolor](https://cdn.nest.rip/uploads/b3b4db64-7c8b-47bf-9a5e-6bcbea092b5d.png)
 ![afterrecolor](https://cdn.nest.rip/uploads/5c52b00f-d678-41e7-b6e9-f18a7bcbaa38.png)
 
+```
+https://krstlskll69.github.io/vc-snippets/StageRecolor.css
+```
 ----
 
 6th: IconRecolors
-Recolors all the icons so that you don't need 3 different snippets for it.
+Recolors all the icons so that you don't need 4 different snippets for it.
 
+*(doesnt include 'Nsfw' tag)*
+```
+https://krstlskll69.github.io/vc-snippets/IconRecolors.css
+```
 ----
  
 Disclaimer: While yes my CSS snippets are in [Faf4's ThemeLibrary](https://github.com/Faf4a/ThemeLibrary) they use `@imports` that lead here, so i cant guarantee no problems/issues with them
