@@ -1,0 +1,18 @@
+/**
+* @name ViewBoth@andStatus
+* @author krystalskullofficial
+* @version 500.0
+* @description View both STATUS and USERNAME at the same time
+*/
+[class^=hovered], [class^=hoverRoll][class*=forceHover]:not([class^=disabled]) > [class^=default]
+{
+  opacity: 1!important;
+  transform: none;
+}
+[class^=avatarWrapper_] [class^=nameTag_] [class^=hovered_]::before{
+    content: "@";
+}
+[class^=hoverRoll] > [class^=default]
+{
+  margin-top: 15px;
+}
