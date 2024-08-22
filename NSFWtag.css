@@ -48,11 +48,6 @@
   fill: var(--status-danger-background) !important;
 }
 
-/*--- Chat (older) Icon Recolor ---*/
-.icon_e44302 path[d^="M18.09 1.63"] {
-    fill: var(--status-danger-background) !important;
-  } 
-  
 /*-------------*/ 
 
 /*--- 'NSFW' Message Bar Icon Recolor ---*/
