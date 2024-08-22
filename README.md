@@ -7,6 +7,7 @@ Important -
 3. There is no icon diff for a stage marked 'NSFW' on desktop so those arnt labeled *(until i find a way to label them)*
 4. People have been asking for this on Vendetta/Pyoncord(Bunny) and for those people id like to point you too [NexxUtils](https://bunny.nexpid.xyz/nexxutils/)
     - About Enmity - I dont know about nor do i care about Enmity 
+5. I have seen and have different install of Discord to play around on the `Desktop Visual Refresh` for discord but due to the fact that they are still heavily making changes to  it. Im going to wait until this actually comes out to update my snippets for it... Soo they might work or they might not work  
 
 ----
 
