@@ -11,7 +11,7 @@ Important -
 
 ----
 
-1st: NSFW Channel Tag:
+1st: NSFW Channel Tag -
 Adds a small RED text box that says NSFW next to those channels and also colors the red warning icon.
 
 BEFORE AND AFTER:
@@ -25,7 +25,7 @@ https://krstlskll69.github.io/vc-snippets/NSFWtag.css
 ```
 ----
 
-2nd: NSFW Channel Recolor:
+2nd: NSFW Channel Recolor -
 Recolors the triangle of 'NSFW' channels.
 
 BEFORE AND AFTER:
@@ -39,7 +39,7 @@ https://krstlskll69.github.io/vc-snippets/NSFWChannelRecolor.css
 ```
 ----
 
-3rd: Private Channel Recolor:
+3rd: Private Channel Recolor -
 Recolors the lock icon of a private channel.
 
 BEFORE AND AFTER:
@@ -53,7 +53,7 @@ https://krstlskll69.github.io/vc-snippets/PrivateChannelRecolor.css
 ```
 ---- 
 
-4th: Channels & Roles Recolor:
+4th: Channels & Roles Recolor -
 Recolors the icon on Channel & Role tab so they are easier to see/notice
 
 BEFORE AND AFTER:
@@ -67,7 +67,7 @@ https://krstlskll69.github.io/vc-snippets/Channel&RolesRecolor.css
 ```
 ----
 
-5th: Stage Icon Recolor:
+5th: Stage Icon Recolor -
 Recolors the icon For Stages so they are easier to see/notice
 
 BEFORE AND AFTER:
@@ -81,7 +81,7 @@ https://krstlskll69.github.io/vc-snippets/StageRecolor.css
 ```
 ----
 
-6th: IconRecolors
+6th: IconRecolors -
 Recolors all the icons so that you don't need 4 different snippets for it.
 
 *(doesnt include 'Nsfw' tag)*
@@ -89,6 +89,34 @@ Recolors all the icons so that you don't need 4 different snippets for it.
 https://krstlskll69.github.io/vc-snippets/IconRecolors.css
 ```
 ----
+
+7th: "Add Friends" tab recolour - Recolours the "Add Friend" tab so it matchs with the tabs
+
+BEFORE AND AFTER: 
+(hopfully you can tell which is which)
+![BeforeRecolor](https://cdn.nest.rip/uploads/c46e1af2-cb5d-4214-9418-dd6e08ed2bf9.png)
+![AfterRecolor](https://cdn.nest.rip/uploads/c4a990a2-c5ec-4c9e-89c4-18e2675bc39e.png)
+BEFORE AND AFTER _while tab is selected_: 
+(Hopfully you can tell which is which)
+![BeforeRecolorWhileTabSelected](https://cdn.nest.rip/uploads/d4a09457-9be9-43e3-a405-a549b8ea88e5.png)
+![AfterRecolorWhileTabSelected](https://cdn.nest.rip/uploads/ffb0d9ab-eb95-4cec-b79e-ea9f8a7f7d7d.png)
+```
+https://krstlskll69.github.io/vc-snippets/OtherStuff/RecolorAddFriendsTab.css
+```
+---
+
+8th: ShowBoth@andStatus - This Snippet shows both your discord username and status at the same time
+
+BEFORE AND AFTER: 
+(hopfully you can tell which is which)
+
+![Before](https://cdn.nest.rip/uploads/4530d712-eb1f-45c5-8d5f-357a83062492.png)
+![After](https://cdn.nest.rip/uploads/514133ca-563c-468c-a312-882c5f651de8.png)
+```
+https://krstlskll69.github.io/vc-snippets/OtherStuff/NewBoth.css
+```
+
+---
  
 Disclaimer: While yes my CSS snippets are in [Faf4's ThemeLibrary](https://github.com/Faf4a/ThemeLibrary) they use `@imports` that lead here, so i cant guarantee no problems/issues with them
 
