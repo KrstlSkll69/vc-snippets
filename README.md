@@ -96,6 +96,7 @@ BEFORE AND AFTER:
 (hopfully you can tell which is which)
 ![BeforeRecolor](https://cdn.nest.rip/uploads/c46e1af2-cb5d-4214-9418-dd6e08ed2bf9.png)
 ![AfterRecolor](https://cdn.nest.rip/uploads/c4a990a2-c5ec-4c9e-89c4-18e2675bc39e.png)
+
 BEFORE AND AFTER _while tab is selected_: 
 (Hopfully you can tell which is which)
 ![BeforeRecolorWhileTabSelected](https://cdn.nest.rip/uploads/d4a09457-9be9-43e3-a405-a549b8ea88e5.png)
