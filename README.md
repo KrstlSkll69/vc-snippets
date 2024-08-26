@@ -90,7 +90,8 @@ https://krstlskll69.github.io/vc-snippets/IconRecolors.css
 ```
 ----
 
-7th: "Add Friends" tab recolour - Recolours the "Add Friend" tab so it matchs with the tabs
+7th: "Add Friends" tab recolour - Recolours the "Add Friend" tab so it matchs with the tabs    
+_Note: this snippet requires Vencord's ["ThemeAttributes"](https://vencord.dev/plugins/ThemeAttributes) plugin_
 
 BEFORE AND AFTER: 
 (hopfully you can tell which is which)
