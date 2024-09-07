@@ -1,5 +1,6 @@
 # VC-css_snippets
 # These Css Snippets where built to work with Vencord, so iam unsure if they will work with other client mods
+# `IconRecolor`/ All-in-one missing?... Ik i deleted it :3
 
 Important - 
 1. Fixed Code/Learned new skill icons are now recolored on both the channel lists and on top of the chat
@@ -8,6 +9,7 @@ Important -
 4. People have been asking for this on Vendetta/Pyoncord(Bunny) and for those people id like to point you too [NexxUtils](https://bunny.nexpid.xyz/nexxutils/)
     - About Enmity - I dont know about nor do i care about Enmity 
 5. I have seen and have different install of Discord to play around on the `Desktop Visual Refresh` for discord but due to the fact that they are still heavily making changes to  it. Im going to wait until this actually comes out to update my snippets for it... Soo they might work or they might not work  
+
 
 ----
 
