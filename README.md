@@ -79,15 +79,7 @@ BEFORE AND AFTER:
 ```
 https://krstlskll69.github.io/vc-snippets/StageRecolor.css
 ```
-----
 
-6th: IconRecolors -
-Recolors all the icons so that you don't need 4 different snippets for it.
-
-*(doesnt include 'Nsfw' tag)*
-```
-https://krstlskll69.github.io/vc-snippets/IconRecolors.css
-```
 ----
 
 7th: "Add Friends" tab recolour - Recolours the "Add Friend" tab so it matchs with the tabs    
