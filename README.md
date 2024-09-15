@@ -91,7 +91,20 @@ https://krstlskll69.github.io/vc-snippets/IconRecolors.css
 ```
 ----
 
-7th: "Add Friends" tab recolour ~ Recolours the "Add Friend" tab so it matchs with the tabs    
+7th: ShowBoth@andStatus ~ This Snippet shows both your discord username and status at the same time
+
+BEFORE AND AFTER: 
+(hopfully you can tell which is which)
+
+![Before](https://cdn.nest.rip/uploads/4530d712-eb1f-45c5-8d5f-357a83062492.png)
+![After](https://cdn.nest.rip/uploads/514133ca-563c-468c-a312-882c5f651de8.png)
+```
+https://krstlskll69.github.io/vc-snippets/OtherStuff/NewBoth.css
+```
+
+----
+
+8th: "Add Friends" tab recolour ~ Recolours the "Add Friend" tab so it matchs with the tabs    
 _Note: this snippet requires Vencord's ["ThemeAttributes"](https://vencord.dev/plugins/ThemeAttributes) plugin_
 
 BEFORE AND AFTER: 
@@ -106,20 +119,8 @@ BEFORE AND AFTER _while tab is selected_:
 ```
 https://krstlskll69.github.io/vc-snippets/OtherStuff/RecolorAddFriendsTab.css
 ```
----
+----
 
-8th: ShowBoth@andStatus ~ This Snippet shows both your discord username and status at the same time
-
-BEFORE AND AFTER: 
-(hopfully you can tell which is which)
-
-![Before](https://cdn.nest.rip/uploads/4530d712-eb1f-45c5-8d5f-357a83062492.png)
-![After](https://cdn.nest.rip/uploads/514133ca-563c-468c-a312-882c5f651de8.png)
-```
-https://krstlskll69.github.io/vc-snippets/OtherStuff/NewBoth.css
-```
-
----
 9th: All Tabs ~ Recolours the tabs to make them match the "add Friend" one    
 _Note: this snippet requires Vencord's ["ThemeAttributes"](https://vencord.dev/plugins/ThemeAttributes) plugin_
 
@@ -132,7 +133,7 @@ BEFORE AND AFTER:
 https://krstlskll69.github.io/vc-snippets/OtherStuff/RecolorAllTabs.css
 ```
 ---
-10th: cat (it watches your soul) ~   
+11th: cat (it watches your soul) ~   
 _Note: this snippet requires Vencord's ["ThemeAttributes"](https://vencord.dev/plugins/ThemeAttributes) plugin_
 
 ![MaxWell](https://cdn.nest.rip/uploads/06a43131-f624-4209-8589-08c782ac31d2.png)
