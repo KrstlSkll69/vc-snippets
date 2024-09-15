@@ -22,7 +22,7 @@ BEFORE AND AFTER:
 ![after-recoloandmarkerrNSFW](https://cdn.nest.rip/uploads/591db449-e2ab-4376-95b9-a10b2d1a4a90.png)
 
 ```
-https://krstlskll69.github.io/vc-snippets/NSFWtag.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/NSFWtag.css
 ```
 ----
 
@@ -36,7 +36,7 @@ BEFORE AND AFTER:
 ![after-recolorNSFW](https://cdn.nest.rip/uploads/0b99386d-180c-41a1-bca6-722150077f3d.png)
 
 ```
-https://krstlskll69.github.io/vc-snippets/NSFWChannelRecolor.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/NSFWChannelRecolor.css
 ```
 ----
 
@@ -50,7 +50,7 @@ BEFORE AND AFTER:
 ![after-recolor](https://cdn.nest.rip/uploads/31c36485-10ab-497b-82a0-b6f0e609e9af.png)
 
 ```
-https://krstlskll69.github.io/vc-snippets/PrivateChannelRecolor.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/PrivateChannelRecolor.css
 ```
 ---- 
 
@@ -64,7 +64,7 @@ BEFORE AND AFTER:
 ![after-recolor](https://cdn.nest.rip/uploads/b6ff195c-b757-4bc2-bada-57d4936bae0a.png)
 
 ```
-https://krstlskll69.github.io/vc-snippets/Channel&RolesRecolor.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/Channel%26RolesRecolor.css
 ```
 ----
 
@@ -78,7 +78,7 @@ BEFORE AND AFTER:
 ![afterrecolor](https://cdn.nest.rip/uploads/5c52b00f-d678-41e7-b6e9-f18a7bcbaa38.png)
 
 ```
-https://krstlskll69.github.io/vc-snippets/StageRecolor.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/StageRecolor.css
 ```
 ----
 
@@ -87,7 +87,7 @@ Recolors all the icons so that you don't need 4 different snippets for it.
 
 *(doesnt include 'Nsfw' tag)*
 ```
-https://krstlskll69.github.io/vc-snippets/IconRecolors.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/IconRecolors.css
 ```
 ----
 
@@ -99,7 +99,7 @@ BEFORE AND AFTER:
 ![Before](https://cdn.nest.rip/uploads/4530d712-eb1f-45c5-8d5f-357a83062492.png)
 ![After](https://cdn.nest.rip/uploads/514133ca-563c-468c-a312-882c5f651de8.png)
 ```
-https://krstlskll69.github.io/vc-snippets/OtherStuff/NewBoth.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/NewBoth.css
 ```
 
 ----
@@ -117,7 +117,7 @@ BEFORE AND AFTER _while tab is selected_:
 ![BeforeRecolorWhileTabSelected](https://cdn.nest.rip/uploads/d4a09457-9be9-43e3-a405-a549b8ea88e5.png)
 ![AfterRecolorWhileTabSelected](https://cdn.nest.rip/uploads/ffb0d9ab-eb95-4cec-b79e-ea9f8a7f7d7d.png)
 ```
-https://krstlskll69.github.io/vc-snippets/OtherStuff/RecolorAddFriendsTab.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/RecolorAddFriendsTab.css
 ```
 ----
 
@@ -130,7 +130,7 @@ BEFORE AND AFTER:
 ![AfterRecolor](https://cdn.nest.rip/uploads/a0ba5d89-05b8-48d2-a76d-51511697823a.png)
 
 ```
-https://krstlskll69.github.io/vc-snippets/OtherStuff/RecolorAllTabs.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/RecolorAllTabs.css
 ```
 ---
 11th: cat (it watches your soul) ~   
@@ -139,7 +139,7 @@ _Note: this snippet requires Vencord's ["ThemeAttributes"](https://vencord.dev/p
 ![MaxWell](https://cdn.nest.rip/uploads/06a43131-f624-4209-8589-08c782ac31d2.png)
 
 ```
-https://krstlskll69.github.io/vc-snippets/OtherStuff/Maxwell.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/Maxwell.css
 ```
 ---
  
