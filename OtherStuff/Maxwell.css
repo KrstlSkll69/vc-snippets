@@ -1,0 +1,15 @@
+/**
+* @name Maxwell watchs your soul
+* @author jaxorssmthng, krystalskullofficial
+* @version 2.0
+* @description cat (it watches your soul)
+*/
+[class^="panels_"]::before {
+    content: "";
+    width: 30px;
+    height: 47px;
+    left: 200px;
+    margin-top: -48px;
+    position: absolute;
+    background-image: url('https://cdn.discordapp.com/emojis/1086739148582436964.webp?size=48&amp;quality=lossless');
+}

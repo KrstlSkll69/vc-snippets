@@ -1,0 +1,96 @@
+/**
+* @name RecolorAllTabs
+* @author krystalskullofficial
+* @version 2.0
+* @description Recolors the tabs to make it like the ADDFRIEND one
+*/
+/*-----------*/
+[data-tab-id=ONLINE]{
+    background-color: var(--status-positive-background) !important;
+    color: var(--status-positive-text) !important;
+}
+
+[data-tab-id=ONLINE]:hover{
+    background-color: var(--status-positive-background) !important;
+    color: var(--status-positive-text) !important;
+}
+[data-tab-id=ONLINE][aria-selected=true]{
+    background-color: transparent !important;
+    color: var(--text-positive) !important;
+}
+[data-tab-id=ONLINE][aria-selected=true]:hover{
+    background-color: transparent !important;
+    color: var(--text-positive) !important;
+}
+/*-----------*/
+[data-tab-id=ALL]{
+    background-color: var(--status-positive-background) !important;
+    color: var(--status-positive-text) !important;
+}
+
+[data-tab-id=ALL]:hover{
+    background-color: var(--status-positive-background) !important;
+    color: var(--status-positive-text) !important;
+}
+[data-tab-id=ALL][aria-selected=true]{
+    background-color: transparent !important;
+    color: var(--text-positive) !important;
+}
+[data-tab-id=ALL][aria-selected=true]:hover{
+    background-color: transparent !important;
+    color: var(--text-positive) !important;
+}
+/*-----------*/
+[data-tab-id=PENDING]{
+    background-color: var(--status-positive-background) !important;
+    color: var(--status-positive-text) !important;
+}
+
+[data-tab-id=PENDING]:hover{
+    background-color: var(--status-positive-background) !important;
+    color: var(--status-positive-text) !important;
+}
+[data-tab-id=PENDING][aria-selected=true]{
+    background-color: transparent !important;
+    color: var(--text-positive) !important;
+}
+[data-tab-id=PENDING][aria-selected=true]:hover{
+    background-color: transparent !important;
+    color: var(--text-positive) !important;
+}
+/*-----------*/
+[data-tab-id=IMPLICIT]{
+    background-color: var(--status-positive-background) !important;
+    color: var(--status-positive-text) !important;
+}
+
+[data-tab-id=IMPLICIT]:hover{
+    background-color: var(--status-positive-background) !important;
+    color: var(--status-positive-text) !important;
+}
+[data-tab-id=IMPLICIT][aria-selected=true]{
+    background-color: transparent !important;
+    color: var(--text-positive) !important;
+}
+[data-tab-id=IMPLICIT][aria-selected=true]:hover{
+    background-color: transparent !important;
+    color: var(--text-positive) !important;
+}
+/*-----------*/
+[data-tab-id=BLOCKED]{
+    background-color: var(--status-positive-background) !important;
+    color: var(--status-positive-text) !important;
+}
+[data-tab-id=BLOCKED]:hover{
+    background-color: var(--status-positive-background) !important;
+    color: var(--status-positive-text) !important;
+}
+[data-tab-id=BLOCKED][aria-selected=true]{
+    background-color: transparent !important;
+    color: var(--text-positive) !important;
+}
+[data-tab-id=BLOCKED][aria-selected=true]:hover{
+    background-color: transparent !important;
+    color: var(--text-positive) !important;
+}
+/*-----------*/

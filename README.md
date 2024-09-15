@@ -8,10 +8,11 @@ Important -
 4. People have been asking for this on Vendetta/Pyoncord(Bunny) and for those people id like to point you too [NexxUtils](https://bunny.nexpid.xyz/nexxutils/)
     - About Enmity - I dont know about nor do i care about Enmity 
 5. I have seen and have different install of Discord to play around on the `Desktop Visual Refresh` for discord but due to the fact that they are still heavily making changes to  it. Im going to wait until this actually comes out to update my snippets for it... Soo they might work or they might not work  
+6. MaxWell is joke snippet ~ cant not guarantee that he wont actually steal your soul  
 
 ----
 
-1st: NSFW Channel Tag -
+1st: NSFW Channel Tag ~
 Adds a small RED text box that says NSFW next to those channels and also colors the red warning icon.
 
 BEFORE AND AFTER:
@@ -25,7 +26,7 @@ https://krstlskll69.github.io/vc-snippets/NSFWtag.css
 ```
 ----
 
-2nd: NSFW Channel Recolor -
+2nd: NSFW Channel Recolor ~
 Recolors the triangle of 'NSFW' channels.
 
 BEFORE AND AFTER:
@@ -39,7 +40,7 @@ https://krstlskll69.github.io/vc-snippets/NSFWChannelRecolor.css
 ```
 ----
 
-3rd: Private Channel Recolor -
+3rd: Private Channel Recolor ~
 Recolors the lock icon of a private channel.
 
 BEFORE AND AFTER:
@@ -53,7 +54,7 @@ https://krstlskll69.github.io/vc-snippets/PrivateChannelRecolor.css
 ```
 ---- 
 
-4th: Channels & Roles Recolor -
+4th: Channels & Roles Recolor ~
 Recolors the icon on Channel & Role tab so they are easier to see/notice
 
 BEFORE AND AFTER:
@@ -67,7 +68,7 @@ https://krstlskll69.github.io/vc-snippets/Channel&RolesRecolor.css
 ```
 ----
 
-5th: Stage Icon Recolor -
+5th: Stage Icon Recolor ~
 Recolors the icon For Stages so they are easier to see/notice
 
 BEFORE AND AFTER:
@@ -81,7 +82,7 @@ https://krstlskll69.github.io/vc-snippets/StageRecolor.css
 ```
 ----
 
-6th: IconRecolors -
+6th: IconRecolors ~
 Recolors all the icons so that you don't need 4 different snippets for it.
 
 *(doesnt include 'Nsfw' tag)*
@@ -90,7 +91,7 @@ https://krstlskll69.github.io/vc-snippets/IconRecolors.css
 ```
 ----
 
-7th: "Add Friends" tab recolour - Recolours the "Add Friend" tab so it matchs with the tabs    
+7th: "Add Friends" tab recolour ~ Recolours the "Add Friend" tab so it matchs with the tabs    
 _Note: this snippet requires Vencord's ["ThemeAttributes"](https://vencord.dev/plugins/ThemeAttributes) plugin_
 
 BEFORE AND AFTER: 
@@ -107,7 +108,7 @@ https://krstlskll69.github.io/vc-snippets/OtherStuff/RecolorAddFriendsTab.css
 ```
 ---
 
-8th: ShowBoth@andStatus - This Snippet shows both your discord username and status at the same time
+8th: ShowBoth@andStatus ~ This Snippet shows both your discord username and status at the same time
 
 BEFORE AND AFTER: 
 (hopfully you can tell which is which)
@@ -118,6 +119,27 @@ BEFORE AND AFTER:
 https://krstlskll69.github.io/vc-snippets/OtherStuff/NewBoth.css
 ```
 
+---
+9th: All Tabs ~ Recolours the tabs to make them match the "add Friend" one    
+_Note: this snippet requires Vencord's ["ThemeAttributes"](https://vencord.dev/plugins/ThemeAttributes) plugin_
+
+BEFORE AND AFTER: 
+(hopfully you can tell which is which)
+![BeforeRecolor](https://cdn.nest.rip/uploads/9475925a-1b01-494b-b830-eb6650d2d198.png)
+![AfterRecolor](https://cdn.nest.rip/uploads/a0ba5d89-05b8-48d2-a76d-51511697823a.png)
+
+```
+https://krstlskll69.github.io/vc-snippets/OtherStuff/RecolorAllTabs.css
+```
+---
+10th: cat (it watches your soul) ~   
+_Note: this snippet requires Vencord's ["ThemeAttributes"](https://vencord.dev/plugins/ThemeAttributes) plugin_
+
+![MaxWell](https://cdn.nest.rip/uploads/06a43131-f624-4209-8589-08c782ac31d2.png)
+
+```
+https://krstlskll69.github.io/vc-snippets/OtherStuff/Maxwell.css
+```
 ---
  
 Disclaimer: While yes my CSS snippets are in [Faf4's ThemeLibrary](https://github.com/Faf4a/ThemeLibrary) they use `@imports` that lead here, so i cant guarantee no problems/issues with them
