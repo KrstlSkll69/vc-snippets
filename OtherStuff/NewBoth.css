@@ -4,15 +4,17 @@
 * @version 500.0
 * @description View both STATUS and USERNAME at the same time
 */
-[class^=hovered], [class^=hoverRoll][class*=forceHover]:not([class^=disabled]) > [class^=default]
-{
-  opacity: 1!important;
-  transform: none;
-}
 [class^=avatarWrapper_] [class^=nameTag_] [class^=hovered_]::before{
-    content: "@";
+  color: var(--text-muted);
+  content: "@";
 }
+
+.container_b2ca13 .hovered_e07331, .hoverRoll_e07331.forceHover_e07331:not(.disabled_e07331) .default_e07331{
+opacity: 1!important;
+transform: none;
+}
+
 [class^=hoverRoll] > [class^=default]
 {
-  margin-top: 15px;
+margin-top: 15px;
 }
