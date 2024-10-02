@@ -121,7 +121,16 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/Recolo
 ```
 ----
 
-9th: All Tabs ~ Recolours the tabs to make them match the "add Friend" one    
+
+9th: hidePinDiscovery ~ Hides the new pinned Discovery Icon  
+
+
+```
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/hideGlobalDiscovery.css
+```
+---
+
+10th: All Tabs ~ Recolours the tabs to make them match the "add Friend" one    
 _Note: this snippet requires Vencord's ["ThemeAttributes"](https://vencord.dev/plugins/ThemeAttributes) plugin_
 
 BEFORE AND AFTER: 
