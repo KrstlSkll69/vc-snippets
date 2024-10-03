@@ -1,7 +1,7 @@
 /**
 * @name hidePinDiscovery
 * @author krystalskullofficial
-* @version 1.0
+* @version 2.0
 * @description Hides the new pinned Discovery Icon
 */
 [class*=unreadMentionsFixedFooter_]{bottom: 0px !important;}
