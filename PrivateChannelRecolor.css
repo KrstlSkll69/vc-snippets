@@ -30,3 +30,8 @@
 .icon_bcc24e path[d^="M16 18h.5v"] {
     fill: var(--yellow-200) !important;
 }
+
+/*--- Vencord's UserVoiceShow Icon Recolor ---*/
+.vc-uvs-speaker path[d^="M16 4h.5v"] {
+    fill: var(--yellow-200) !important;
+}
