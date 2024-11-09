@@ -57,6 +57,7 @@
 .ping_c02c63 path[d^="M18.09 14.63c.4-.7"] {
     fill: var(--status-danger-background) !important;
 }
+
 /*-------------------------------------------------------------------------------------------------------------------*/
 
 /*--- Lock Icon Channel List Recolor ---*/
@@ -82,6 +83,11 @@
 
 /*--- Lock Thread Icon Message Bar Icon Recolor ---*/
 .icon_bcc24e path[d^="M16 18h.5v"] {
+    fill: var(--yellow-200) !important;
+}
+
+/*--- Vencord's UserVoiceShow Icon Recolor ---*/
+.vc-uvs-speaker path[d^="M16 4h.5v"] {
     fill: var(--yellow-200) !important;
 }
 /*-------------------------------------------------------------------------------------------------------------------*/
