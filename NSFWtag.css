@@ -1,11 +1,9 @@
 /**
-* @name NFSWtag
+* @name NSFWtag
 * @author ryan.0324, krystalskullofficial
 * @version 5.0
-* @description A tag for 'NFSW' channels so they are easier to see/notice. Also now recolors the small triangle too be red
+* @description A tag for 'NSFW' channels so they are easier to see/notice. Also now recolors the small triangle too be red
 */
-
-/*note: you must have the redesign icon experiment disabled for this too work*/
 
 /*--- Channel list 'NSFW' Label ---*/
 [class*=linkTop_]:has([class*=iconContainer_] [d^="M18.09 1.63"]) > [class*=children_]::after {
