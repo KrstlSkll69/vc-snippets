@@ -1,5 +1,6 @@
 # VC-css_snippets
 # These Css Snippets where built to work with Vencord, so iam unsure if they will work with other client mods
+### Codeberg mirror: https://codeberg.org/KrstlSkll69/vc-snippets
 
 Important - 
 1. Fixed Code/Learned new skill icons are now recolored on both the channel lists and on top of the chat
@@ -21,6 +22,11 @@ BEFORE AND AFTER:
 ![before-recoloandmarkerNSFW](https://cdn.nest.rip/uploads/0a42a8f3-3bfb-4ce0-95f9-0cd59ec5ae32.png)
 ![after-recoloandmarkerrNSFW](https://cdn.nest.rip/uploads/591db449-e2ab-4376-95b9-a10b2d1a4a90.png)
 
+codeberg:
+```
+https://codeberg.org/KrstlSkll69/vc-snippets/raw/branch/main/NSFWtag.css
+```
+Github:
 ```
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/NSFWtag.css
 ```
@@ -35,6 +41,11 @@ BEFORE AND AFTER:
 ![before-recolorNSFW](https://github.com/KrstlSkll69/vc-snippets/assets/150982280/d3b57ff4-bb3d-40fa-a642-11f1741cd9a4)
 ![after-recolorNSFW](https://cdn.nest.rip/uploads/0b99386d-180c-41a1-bca6-722150077f3d.png)
 
+codeberg:
+```
+https://codeberg.org/KrstlSkll69/vc-snippets/raw/branch/main/NSFWChannelRecolor.css
+```
+Github:
 ```
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/NSFWChannelRecolor.css
 ```
@@ -49,6 +60,11 @@ BEFORE AND AFTER:
 ![before-recolor](https://cdn.nest.rip/uploads/0f153f1c-b5cb-4197-a118-4f51ced76805.png)
 ![after-recolor](https://cdn.nest.rip/uploads/31c36485-10ab-497b-82a0-b6f0e609e9af.png)
 
+codeberg:
+```
+https://codeberg.org/KrstlSkll69/vc-snippets/raw/branch/main/PrivateChannelRecolor.css
+```
+Github:
 ```
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/PrivateChannelRecolor.css
 ```
@@ -63,6 +79,11 @@ BEFORE AND AFTER:
 ![before-recolor](https://cdn.nest.rip/uploads/d3102314-0165-409e-9da5-7888747f0a58.png)
 ![after-recolor](https://cdn.nest.rip/uploads/b6ff195c-b757-4bc2-bada-57d4936bae0a.png)
 
+codeberg:
+```
+https://codeberg.org/KrstlSkll69/vc-snippets/raw/branch/main/Channel&RolesRecolor.css
+```
+Github:
 ```
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/Channel%26RolesRecolor.css
 ```
@@ -77,6 +98,11 @@ BEFORE AND AFTER:
 ![beforerecolor](https://cdn.nest.rip/uploads/b3b4db64-7c8b-47bf-9a5e-6bcbea092b5d.png)
 ![afterrecolor](https://cdn.nest.rip/uploads/5c52b00f-d678-41e7-b6e9-f18a7bcbaa38.png)
 
+codeberg:
+```
+https://codeberg.org/KrstlSkll69/vc-snippets/raw/branch/main/StageRecolor.css
+```
+Github:
 ```
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/StageRecolor.css
 ```
@@ -86,6 +112,12 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/StageRecolor.css
 Recolors all the icons so that you don't need 4 different snippets for it.
 
 *(doesnt include 'Nsfw' tag)*
+
+codeburg:
+```
+https://codeberg.org/KrstlSkll69/vc-snippets/raw/branch/main/IconRecolors.css
+```
+Github:
 ```
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/IconRecolors.css
 ```
@@ -116,6 +148,11 @@ BEFORE AND AFTER _while tab is selected_:
 (Hopfully you can tell which is which)
 ![BeforeRecolorWhileTabSelected](https://cdn.nest.rip/uploads/d4a09457-9be9-43e3-a405-a549b8ea88e5.png)
 ![AfterRecolorWhileTabSelected](https://cdn.nest.rip/uploads/ffb0d9ab-eb95-4cec-b79e-ea9f8a7f7d7d.png)
+codeberg:
+```
+https://codeberg.org/KrstlSkll69/vc-snippets/raw/branch/main/OtherStuff/RecolorAddFriendsTab.css
+```
+Github:
 ```
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/RecolorAddFriendsTab.css
 ```
@@ -124,7 +161,11 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/Recolo
 
 9th: hidePinDiscovery ~ Hides the new pinned Discovery Icon  
 
-
+codeburg:
+```
+https://codeberg.org/KrstlSkll69/vc-snippets/raw/branch/main/OtherStuff/hideGlobalDiscovery.css
+```
+Github:
 ```
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/hideGlobalDiscovery.css
 ```
@@ -133,7 +174,11 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/hideGl
 _Note: this snippet requires Vencord's ["ThemeAttributes"](https://vencord.dev/plugins/ThemeAttributes) plugin_
 
 ![MaxWell](https://cdn.nest.rip/uploads/06a43131-f624-4209-8589-08c782ac31d2.png)
-
+codeburg:
+```
+https://codeberg.org/KrstlSkll69/vc-snippets/raw/branch/main/OtherStuff/Maxwell.css
+```
+Github:
 ```
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/Maxwell.css
 ```
