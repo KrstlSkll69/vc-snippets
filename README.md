@@ -129,20 +129,7 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/Recolo
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/hideGlobalDiscovery.css
 ```
 ---
-
-10th: All Tabs ~ Recolours the tabs to make them match the "add Friend" one    
-_Note: this snippet requires Vencord's ["ThemeAttributes"](https://vencord.dev/plugins/ThemeAttributes) plugin_
-
-BEFORE AND AFTER: 
-(hopfully you can tell which is which)
-![BeforeRecolor](https://cdn.nest.rip/uploads/9475925a-1b01-494b-b830-eb6650d2d198.png)
-![AfterRecolor](https://cdn.nest.rip/uploads/a0ba5d89-05b8-48d2-a76d-51511697823a.png)
-
-```
-https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/RecolorAllTabs.css
-```
----
-11th: cat (it watches your soul) ~   
+10th: cat (it watches your soul) ~   
 _Note: this snippet requires Vencord's ["ThemeAttributes"](https://vencord.dev/plugins/ThemeAttributes) plugin_
 
 ![MaxWell](https://cdn.nest.rip/uploads/06a43131-f624-4209-8589-08c782ac31d2.png)
