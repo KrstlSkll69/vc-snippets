@@ -113,7 +113,7 @@ Recolors all the icons so that you don't need 4 different snippets for it.
 
 *(doesnt include 'Nsfw' tag)*
 
-codeburg:
+git.gay:
 ```
 https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/IconRecolors.css
 ```
@@ -130,6 +130,12 @@ BEFORE AND AFTER:
 
 ![Before](https://cdn.nest.rip/uploads/4530d712-eb1f-45c5-8d5f-357a83062492.png)
 ![After](https://cdn.nest.rip/uploads/514133ca-563c-468c-a312-882c5f651de8.png)
+
+git.gay:
+```
+https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/OtherStuff/NewBoth.css
+```
+Github:
 ```
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/NewBoth.css
 ```
@@ -161,7 +167,7 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/Recolo
 
 9th: hidePinDiscovery ~ Hides the new pinned Discovery Icon  
 
-codeburg:
+git.gay:
 ```
 https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/OtherStuff/hideGlobalDiscovery.css
 ```
@@ -174,7 +180,7 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/hideGl
 _Note: this snippet requires Vencord's ["ThemeAttributes"](https://vencord.dev/plugins/ThemeAttributes) plugin_
 
 ![MaxWell](https://cdn.nest.rip/uploads/06a43131-f624-4209-8589-08c782ac31d2.png)
-codeburg:
+git.gay:
 ```
 https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/OtherStuff/Maxwell.css
 ```
@@ -184,7 +190,7 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/Maxwel
 ```
 ---
  
-Disclaimer: While yes my CSS snippets are in [Faf4's ThemeLibrary](https://github.com/Faf4a/ThemeLibrary) they use `@imports` that lead here, so i cant guarantee no problems/issues with them
+Disclaimer: While yes my CSS snippets are in [Faf4's ThemeLibrary](https://github.com/Faf4a/ThemeLibrary) they use `@imports` that lead here, so i cant guarantee no problems/issues with the
 
 
 
