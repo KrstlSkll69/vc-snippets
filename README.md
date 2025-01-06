@@ -180,6 +180,7 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/hideGl
 _Note: this snippet requires Vencord's ["ThemeAttributes"](https://vencord.dev/plugins/ThemeAttributes) plugin_
 
 ![MaxWell](https://cdn.nest.rip/uploads/06a43131-f624-4209-8589-08c782ac31d2.png)
+
 git.gay:
 ```
 https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/OtherStuff/Maxwell.css
