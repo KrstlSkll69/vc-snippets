@@ -4,6 +4,10 @@
 * @version 2.0
 * @description Hides the new pinned Discovery Icon
 */
-[class*=unreadMentionsFixedFooter_]{bottom: 0px !important;}
 
+[class*=unreadMentionsFixedFooter_]{bottom: 0px !important;}
 [class^=footer_]:has([class*=fixedDiscoveryIcon_]) {display: none; }
+
+/*Removed fixedDiscoveryIcon_ on canary - 01/07/2025 - idk if its on Stable*/
+[class*=unreadMentionsFixedFooter_]{bottom: 0px !important;}
+[class^=footer_]:has([class*=discoveryIcon_]) {display: none; }
