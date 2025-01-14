@@ -190,6 +190,29 @@ Github:
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/Maxwell.css
 ```
 ---
+10th: Better Social Links (fork) ~   
+
+ - Discord's social links ~
+
+![LogoutLink](https://cdn.nest.rip/uploads/e458dbc2-2ebc-403e-91ed-198c850322d6.png)
+
+This snippet also changes the twitter X, back into the bird
+ - Discord connect accounts
+
+![connectedAccounts](https://cdn.nest.rip/uploads/7cecb19b-3e29-4657-b13f-f6cd73612f12.png)
+
+ - Vencord's [ShowConnections](https://vencord.dev/plugins/ShowConnections)
+
+![ShowConnections](https://cdn.nest.rip/uploads/d01261c5-9de8-4caa-9451-fa55eaa48da4.png)
+
+git.gay:
+```
+https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/OtherStuff/better-social-links.css
+```
+Github:
+```
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/refs/heads/main/OtherStuff/better-social-links.css
+```
  
 Disclaimer: While yes my CSS snippets are in [Faf4's ThemeLibrary](https://github.com/Faf4a/ThemeLibrary) they use `@imports` that lead here, so i cant guarantee no problems/issues with the
 
