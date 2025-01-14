@@ -1,0 +1,129 @@
+/**
+* @name Better Social Links (fork)
+* @author stevencaiOR, krekevyks1337,  krystalskullofficial
+* @version ??.??
+* @description Revamps some discord social links
+*/
+
+/* This is a fork solely meant to change the twitter logos back to the cute bird */
+/* Also i switched the images to being hosted by me */
+/* Thanks too nest.rip ~ https://nest.rip/ */ 
+
+:root{
+    --twitter-color: #1da1f2;   /* Src: https://help.twitter.com/content/dam/help-twitter/brand/logo.png */
+    --instagram-color: #ff0069; /* Src: https://about.instagram.com/brand/gradient */
+    --facebook-color: #0866ff;  /* Src: https://about.meta.com/brand/resources/facebook/logo */
+    --youtube-color: #f00;
+    --tiktok-color: #00f8f0;    /* Src: https://developers.tiktok.com/ -> https://sf16-muse-va.ibytedtos.com/obj/tiktok-open-platform/ttop_doc_images/3c4e94e4b12fcbe3b123c67e0c96dbdf.png */
+}
+[class*="socialLinks_"]{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+[class*="socialLinks_"] svg{
+    height: 20px;
+    width: 20px;
+}
+[class*="anchorUnderlineOnHover_"][aria-label="twitter" i],
+[class*="anchorUnderlineOnHover_"][title="twitter" i]{
+    color: var(--twitter-color);
+}
+[class*="anchorUnderlineOnHover_"][aria-label="instagram" i],
+[class*="anchorUnderlineOnHover_"][title="instagram" i]{
+    color: var(--instagram-color);
+}
+[class*="anchorUnderlineOnHover_"][aria-label="instagram" i] svg,
+[class*="anchorUnderlineOnHover_"][title="instagram" i] svg{
+    background-image: url(https://cdn.nest.rip/uploads/b1e226f8-d8ff-49e4-8f2f-53c826105c1f.png);
+}
+[class*="anchorUnderlineOnHover_"][aria-label="facebook" i],
+[class*="anchorUnderlineOnHover_"][title="facebook" i]{
+    color: var(--facebook-color);
+}
+[class*="anchorUnderlineOnHover_"][aria-label="facebook" i] svg,
+[class*="anchorUnderlineOnHover_"][title="facebook" i] svg{
+    -webkit-mask: url(https://cdn.nest.rip/uploads/07ea2be4-e50f-4b89-bd4a-661334c17a0a.svg) no-repeat center / contain;
+    background: currentColor;
+}
+[class*="anchorUnderlineOnHover_"][aria-label="youtube" i],
+[class*="anchorUnderlineOnHover_"][title="youtube" i]{
+    color: var(--youtube-color);    
+}
+[class*="anchorUnderlineOnHover_"][aria-label="tiktok" i],
+[class*="anchorUnderlineOnHover_"][title="tiktok" i]{
+    color: var(--tiktok-color);
+}
+[class*="anchorUnderlineOnHover_"][aria-label="tiktok" i] svg,
+[class*="anchorUnderlineOnHover_"][title="tiktok" i] svg{
+    background-image: url(https://cdn.nest.rip/uploads/3fe2ae80-d642-4634-b12b-cee8b8faaff6.png);
+}
+[class*="anchorUnderlineOnHover_"][aria-label="instagram" i] svg,
+[class*="anchorUnderlineOnHover_"][title="instagram" i] svg,
+[class*="anchorUnderlineOnHover_"][aria-label="tiktok" i] svg,
+[class*="anchorUnderlineOnHover_"][title="tiktok" i] svg{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+[class*="anchorUnderlineOnHover_"][aria-label="instagram" i] path,
+[class*="anchorUnderlineOnHover_"][title="instagram" i] path,
+[class*="anchorUnderlineOnHover_"][aria-label="facebook" i] path,
+[class*="anchorUnderlineOnHover_"][title="facebook" i] path,
+[class*="anchorUnderlineOnHover_"][aria-label="tiktok" i] path,
+[class*="anchorUnderlineOnHover_"][title="tiktok" i] path{
+    fill: none;
+}
+[class*="anchorUnderlineOnHover_"][aria-label="twitter" i]:hover,
+[class*="anchorUnderlineOnHover_"][title="twitter" i]:hover,
+[class*="anchorUnderlineOnHover_"][aria-label="instagram" i]:hover,
+[class*="anchorUnderlineOnHover_"][title="instagram" i]:hover,
+[class*="anchorUnderlineOnHover_"][aria-label="facebook" i]:hover,
+[class*="anchorUnderlineOnHover_"][title="facebook" i]:hover,
+[class*="anchorUnderlineOnHover_"][aria-label="youtube" i]:hover,
+[class*="anchorUnderlineOnHover_"][title="youtube" i]:hover,
+[class*="anchorUnderlineOnHover_"][aria-label="tiktok" i]:hover,
+[class*="anchorUnderlineOnHover_"][title="tiktok" i]:hover{
+    filter: brightness(1.2);
+}
+[class*="socialLinks_"] [class*="anchorUnderlineOnHover_"]:after{
+    font-size: 16px;
+    line-height: 20px;
+    margin-left: 1ch;
+    vertical-align: top;
+}
+[class*="socialLinks_"] [class*="anchorUnderlineOnHover_"]:after{
+    color: var(--text-muted);
+}
+[class*="socialLinks_"] [class*="anchorUnderlineOnHover_"]:hover:after{
+    color: inherit;
+}
+[class*="socialLinks_"] [class*="anchorUnderlineOnHover_"]:hover{
+    text-decoration: none;
+}
+[class*="socialLinks_"] [class*="anchorUnderlineOnHover_"][title="twitter" i]:after{
+    content: "- Twitter";
+}
+[class*="socialLinks_"] [class*="anchorUnderlineOnHover_"][title="instagram" i]:after{
+    content: "- Instagram";
+}
+[class*="socialLinks_"] [class*="anchorUnderlineOnHover_"][title="facebook" i]:after{
+    content: "- Facebook";
+}
+[class*="socialLinks_"] [class*="anchorUnderlineOnHover_"][title="youtube" i]:after{
+    content: "- YouTube";
+}
+[class*="socialLinks_"] [class*="anchorUnderlineOnHover_"][title="tiktok" i]:after{
+    content: "- TikTok";
+}
+
+/*--------Change Svgs--------*/
+[d="M13.86 10.47 21.15 2h-1.73l-6.33 7.35L8.04 2H2.22l7.64 11.12L2.22 22h1.72l6.68-7.77L15.96 22h5.82l-7.92-11.53Zm-2.36 2.75-.78-1.11L4.57 3.3h2.65l4.97 7.11.77 1.1 6.46 9.25h-2.65l-5.27-7.54Z"] {
+    d: path("m20.75 7.51.01.59c0 5.96-4.54 12.84-12.84 12.84-2.45 0-4.86-.7-6.92-2.03a9.06 9.06 0 0 0 6.68-1.87 4.52 4.52 0 0 1-4.22-3.13c.68.13 1.38.1 2.04-.08A4.51 4.51 0 0 1 1.88 9.4v-.05c.63.35 1.33.54 2.05.56a4.52 4.52 0 0 1-1.4-6.02 12.81 12.81 0 0 0 9.3 4.71 4.52 4.52 0 0 1 7.7-4.12 9.06 9.06 0 0 0 2.86-1.1 4.53 4.53 0 0 1-1.98 2.5c.9-.1 1.77-.34 2.59-.7-.6.9-1.37 1.7-2.25 2.33Z");
+}
+
+img[src="/assets/eef9817dc7829265c8ff.svg"]{
+    content: url(https://cdn.nest.rip/uploads/6778aa07-493c-43b2-90e5-b67112d7cd48.png) !important;
+  }
+
+
