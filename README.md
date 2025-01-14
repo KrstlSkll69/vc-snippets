@@ -3,17 +3,15 @@
 ### git.gay mirror: https://git.gay/KrstlSkll69/vc-snippets
 
 Important - 
-1. Fixed Code/Learned new skill icons are now recolored on both the channel lists and on top of the chat
+1. As a native english speaker these snippets were and are developed with that language, I cant not guarantee that they will work with any-other language
 2. As per a request 'NSFW' Label now appears that top of chat
 3. There is no icon diff for a stage marked 'NSFW' on desktop so those arnt labeled *(until i find a way to label them)*
-4. People have been asking for this on Vendetta/Pyoncord(Bunny) and for those people id like to point you too [NexxUtils](https://bunny.nexpid.xyz/nexxutils/)
-    - About Enmity - I dont know about nor do i care about Enmity 
-5. I have seen and have different install of Discord to play around on the `Desktop Visual Refresh` for discord but due to the fact that they are still heavily making changes to  it. Im going to wait until this actually comes out to update my snippets for it... Soo they might work or they might not work  
-6. MaxWell is joke snippet ~ cant not guarantee that he wont actually steal your soul  
+4. I have seen and have different install of Discord to play around on the `Desktop Visual Refresh` for discord but due to the fact that they are still heavily making changes to  it. Im going to wait until this actually comes out to update my snippets for it... Soo they might work or they might not work  
+5. MaxWell is joke snippet ~ cant not guarantee that he wont actually steal your soul  
 
 ----
 
-1st: NSFW Channel Tag ~
+#### 1st: NSFW Channel Tag ~
 Adds a small RED text box that says NSFW next to those channels and also colors the red warning icon.
 
 BEFORE AND AFTER:
@@ -32,7 +30,7 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/NSFWtag.css
 ```
 ----
 
-2nd: NSFW Channel Recolor ~
+#### 2nd: NSFW Channel Recolor ~
 Recolors the triangle of 'NSFW' channels.
 
 BEFORE AND AFTER:
@@ -51,7 +49,7 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/NSFWChannelRecolo
 ```
 ----
 
-3rd: Private Channel Recolor ~
+#### 3rd: Private Channel Recolor ~
 Recolors the lock icon of a private channel.
 
 BEFORE AND AFTER:
@@ -70,7 +68,7 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/PrivateChannelRec
 ```
 ---- 
 
-4th: Channels & Roles Recolor ~
+#### 4th: Channels & Roles Recolor ~
 Recolors the icon on Channel & Role tab so they are easier to see/notice
 
 BEFORE AND AFTER:
@@ -89,7 +87,7 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/Channel%26RolesRe
 ```
 ----
 
-5th: Stage Icon Recolor ~
+#### 5th: Stage Icon Recolor ~
 Recolors the icon For Stages so they are easier to see/notice
 
 BEFORE AND AFTER:
@@ -108,7 +106,7 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/StageRecolor.css
 ```
 ----
 
-6th: IconRecolors ~
+#### 6th: IconRecolors ~
 Recolors all the icons so that you don't need 4 different snippets for it.
 
 *(doesnt include 'Nsfw' tag)*
@@ -123,7 +121,7 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/IconRecolors.css
 ```
 ----
 
-7th: ShowBoth@andStatus ~ This Snippet shows both your discord username and status at the same time
+#### 7th: ShowBoth@andStatus ~ This Snippet shows both your discord username and status at the same time
 
 BEFORE AND AFTER: 
 (hopfully you can tell which is which)
@@ -142,7 +140,7 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/NewBot
 
 ----
 
-8th: "Add Friends" tab recolour ~ Recolours the "Add Friend" tab so it matchs with the tabs    
+#### 8th: "Add Friends" tab recolour ~ Recolours the "Add Friend" tab so it matchs with the tabs    
 _Note: this snippet requires Vencord's ["ThemeAttributes"](https://vencord.dev/plugins/ThemeAttributes) plugin_
 
 BEFORE AND AFTER: 
@@ -164,8 +162,7 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/Recolo
 ```
 ----
 
-
-9th: hidePinDiscovery ~ Hides the new pinned Discovery Icon  
+#### 9th: hidePinDiscovery ~ Hides the new pinned Discovery Icon  
 
 git.gay:
 ```
@@ -176,7 +173,8 @@ Github:
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/hideGlobalDiscovery.css
 ```
 ---
-10th: cat (it watches your soul) ~   
+
+####  10th: cat (it watches your soul) ~   
 _Note: this snippet requires Vencord's ["ThemeAttributes"](https://vencord.dev/plugins/ThemeAttributes) plugin_
 
 ![MaxWell](https://cdn.nest.rip/uploads/06a43131-f624-4209-8589-08c782ac31d2.png)
@@ -190,7 +188,8 @@ Github:
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/Maxwell.css
 ```
 ---
-10th: Better Social Links (fork) ~   
+
+#### 11th: Better Social Links (fork) ~   
 
  - Discord's social links ~
 
@@ -213,7 +212,25 @@ Github:
 ```
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/refs/heads/main/OtherStuff/better-social-links.css
 ```
- 
+---
+
+#### 12th: Swap Mic and Deafen Icon ~   
+
+BEFORE AND AFTER: 
+(hopfully you can tell which is which)
+
+![Before](https://cdn.nest.rip/uploads/14bb14bb-9f12-468f-bd35-e27301523169.png)
+![After](https://cdn.nest.rip/uploads/b0bb9854-71bc-4fd9-ae4a-8bdb047596f1.png)
+
+git.gay:
+```
+https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/OtherStuff/swapMicDeafen.css
+```
+Github:
+```
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/refs/heads/main/OtherStuff/swapMicDeafen.css
+```
+---
 Disclaimer: While yes my CSS snippets are in [Faf4's ThemeLibrary](https://github.com/Faf4a/ThemeLibrary) they use `@imports` that lead here, so i cant guarantee no problems/issues with the
 
 
