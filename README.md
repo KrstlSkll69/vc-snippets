@@ -152,6 +152,7 @@ BEFORE AND AFTER _while tab is selected_:
 (Hopfully you can tell which is which)
 ![BeforeRecolorWhileTabSelected](https://cdn.nest.rip/uploads/d4a09457-9be9-43e3-a405-a549b8ea88e5.png)
 ![AfterRecolorWhileTabSelected](https://cdn.nest.rip/uploads/ffb0d9ab-eb95-4cec-b79e-ea9f8a7f7d7d.png)
+
 git.gay:
 ```
 https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/OtherStuff/RecolorAddFriendsTab.css
