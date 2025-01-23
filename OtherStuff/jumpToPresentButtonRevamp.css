@@ -38,7 +38,7 @@
 [class*="jumpToPresentBar"]:hover > button {
     padding: 8px 18px !important;
     font-size: 14px;
-    color: #FFFFFF;
+    color: oklch(100% 0 0);
     transition: font-size .2s, color .2s .1s, padding .4s;
 }
 

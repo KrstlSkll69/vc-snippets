@@ -10,11 +10,11 @@
 /* Thanks too nest.rip ~ https://nest.rip/ */ 
 
 :root{
-    --twitter-color: #1da1f2;   /* Src: https://help.twitter.com/content/dam/help-twitter/brand/logo.png */
-    --instagram-color: #ff0069; /* Src: https://about.instagram.com/brand/gradient */
-    --facebook-color: #0866ff;  /* Src: https://about.meta.com/brand/resources/facebook/logo */
-    --youtube-color: #f00;
-    --tiktok-color: #00f8f0;    /* Src: https://developers.tiktok.com/ -> https://sf16-muse-va.ibytedtos.com/obj/tiktok-open-platform/ttop_doc_images/3c4e94e4b12fcbe3b123c67e0c96dbdf.png */
+    --twitter-color: oklch(68.18% 0.1584 243.35);   /* Src: https://help.twitter.com/content/dam/help-twitter/brand/logo.png */
+    --instagram-color: oklch(63.94% 0.2557 9.6); /* Src: https://about.instagram.com/brand/gradient */
+    --facebook-color: oklch(56.41% 0.2402 261.15);  /* Src: https://about.meta.com/brand/resources/facebook/logo */
+    --youtube-color: oklch(62.8% 0.25768330773615683 29.2338851923426);
+    --tiktok-color: oklch(88.39% 0.1523 190.61);    /* Src: https://developers.tiktok.com/ -> https://sf16-muse-va.ibytedtos.com/obj/tiktok-open-platform/ttop_doc_images/3c4e94e4b12fcbe3b123c67e0c96dbdf.png */
 }
 [class*="socialLinks_"]{
     display: flex;
