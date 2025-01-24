@@ -34,7 +34,7 @@
 }
 [class*="anchorUnderlineOnHover_"][aria-label="instagram" i] svg,
 [class*="anchorUnderlineOnHover_"][title="instagram" i] svg{
-    background-image: url(https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/refs/heads/main/OtherStuff/photos/Instagram-logo.png);
+    background-image: url(https://krstlskll69.github.io/vc-snippets/OtherStuff/photos/Instagram-logo.png);
 }
 [class*="anchorUnderlineOnHover_"][aria-label="facebook" i],
 [class*="anchorUnderlineOnHover_"][title="facebook" i]{
@@ -42,7 +42,7 @@
 }
 [class*="anchorUnderlineOnHover_"][aria-label="facebook" i] svg,
 [class*="anchorUnderlineOnHover_"][title="facebook" i] svg{
-    -webkit-mask: url(https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/refs/heads/main/OtherStuff/photos/Facebook-logo.svg) no-repeat center / contain;
+    -webkit-mask: url(https://krstlskll69.github.io/vc-snippets/OtherStuff/photos/Facebook-logo.svg) no-repeat center / contain;
     background: currentColor;
 }
 [class*="anchorUnderlineOnHover_"][aria-label="youtube" i],
@@ -55,7 +55,7 @@
 }
 [class*="anchorUnderlineOnHover_"][aria-label="tiktok" i] svg,
 [class*="anchorUnderlineOnHover_"][title="tiktok" i] svg{
-    background-image: url(https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/refs/heads/main/OtherStuff/photos/TikTok-logo.png);
+    background-image: url(https://krstlskll69.github.io/vc-snippets/OtherStuff/photos/TikTok-logo.png);
 }
 [class*="anchorUnderlineOnHover_"][aria-label="instagram" i] svg,
 [class*="anchorUnderlineOnHover_"][title="instagram" i] svg,
@@ -122,9 +122,9 @@
 }
 
 img[src="/assets/eef9817dc7829265c8ff.svg"],[src="/assets/f3c7469988f0ce3a02e4.svg"]{
-    content: url(https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/refs/heads/main/OtherStuff/photos/Twitter-old-logo.png) !important;
+    content: url(https://krstlskll69.github.io/vc-snippets/OtherStuff/photos/Twitter-old-logo.png) !important;
 }
 
 button[class*="accountBtnInner_"][aria-label='X'], button[class*='accountButtonInner_'][aria-label='X'] {
-    background-image: url(https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/refs/heads/main/OtherStuff/photos/Twitter-old-logo.png) !important;
+    background-image: url(https://krstlskll69.github.io/vc-snippets/OtherStuff/photos/Twitter-old-logo.png) !important;
 }
