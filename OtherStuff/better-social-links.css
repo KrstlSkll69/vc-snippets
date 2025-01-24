@@ -7,7 +7,6 @@
 
 /* This is a fork solely meant to change the twitter logos back to the cute bird */
 /* Also i switched the images to being hosted by me */
-/* Thanks too nest.rip ~ https://nest.rip/ */ 
 
 :root{
     --twitter-color: oklch(68.18% 0.1584 243.35);   /* Src: https://help.twitter.com/content/dam/help-twitter/brand/logo.png */
@@ -35,7 +34,7 @@
 }
 [class*="anchorUnderlineOnHover_"][aria-label="instagram" i] svg,
 [class*="anchorUnderlineOnHover_"][title="instagram" i] svg{
-    background-image: url(https://cdn.nest.rip/uploads/b1e226f8-d8ff-49e4-8f2f-53c826105c1f.png);
+    background-image: url(https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/refs/heads/main/OtherStuff/photos/Instagram-logo.png);
 }
 [class*="anchorUnderlineOnHover_"][aria-label="facebook" i],
 [class*="anchorUnderlineOnHover_"][title="facebook" i]{
@@ -43,7 +42,7 @@
 }
 [class*="anchorUnderlineOnHover_"][aria-label="facebook" i] svg,
 [class*="anchorUnderlineOnHover_"][title="facebook" i] svg{
-    -webkit-mask: url(https://cdn.nest.rip/uploads/07ea2be4-e50f-4b89-bd4a-661334c17a0a.svg) no-repeat center / contain;
+    -webkit-mask: url(https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/refs/heads/main/OtherStuff/photos/Facebook-logo.svg) no-repeat center / contain;
     background: currentColor;
 }
 [class*="anchorUnderlineOnHover_"][aria-label="youtube" i],
@@ -56,7 +55,7 @@
 }
 [class*="anchorUnderlineOnHover_"][aria-label="tiktok" i] svg,
 [class*="anchorUnderlineOnHover_"][title="tiktok" i] svg{
-    background-image: url(https://cdn.nest.rip/uploads/3fe2ae80-d642-4634-b12b-cee8b8faaff6.png);
+    background-image: url(https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/refs/heads/main/OtherStuff/photos/TikTok-logo.png);
 }
 [class*="anchorUnderlineOnHover_"][aria-label="instagram" i] svg,
 [class*="anchorUnderlineOnHover_"][title="instagram" i] svg,
@@ -123,9 +122,9 @@
 }
 
 img[src="/assets/eef9817dc7829265c8ff.svg"],[src="/assets/f3c7469988f0ce3a02e4.svg"]{
-    content: url(https://cdn.nest.rip/uploads/6778aa07-493c-43b2-90e5-b67112d7cd48.png) !important;
+    content: url(https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/refs/heads/main/OtherStuff/photos/Twitter-old-logo.png) !important;
 }
 
 button[class*="accountBtnInner_"][aria-label='X'], button[class*='accountButtonInner_'][aria-label='X'] {
-    background-image: url(https://cdn.nest.rip/uploads/6778aa07-493c-43b2-90e5-b67112d7cd48.png) !important;
+    background-image: url(https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/refs/heads/main/OtherStuff/photos/Twitter-old-logo.png) !important;
 }
