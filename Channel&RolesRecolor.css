@@ -6,17 +6,17 @@
 */
 
 /*--- Channel List Icon Recolor ---*/
-.icon_d8bfb3:has(path[d^="M18.5 23c.88"]) path[d^="M18.5 23c.88"] {
+[class^=icon__]:has(path[d^="M18.5 23c.88"]) path[d^="M18.5 23c.88"] {
     color: var(--green-360) !important;
     border: 1px solid rebeccapurple !important;
 }
 
 /*--- Chat Icon Recolor ---*/
-.icon_fc4f04 path[d^="M18.5 23c.88"] {
+[class^=icon__] path[d^="M18.5 23c.88"] {
     fill: var(--green-360) !important;
 }
 
 /*--- Channels&Roles Message bar Channels ---*/
-.icon_bcc24e path[d^="M18.5 23c.88" ] {
+[class^=icon__] path[d^="M18.5 23c.88" ] {
     fill: var(--green-360) !important;
 }

@@ -42,14 +42,14 @@
 }
 
 /*--- Chat Icon Recolor ---*/
-.icon_fc4f04 path[d^="M18.09 1.63"] {
+[class^=icon__] path[d^="M18.09 1.63"] {
   fill: var(--status-danger-background) !important;
 }
 
 /*-------------*/ 
 
 /*--- 'NSFW' Message Bar Icon Recolor ---*/
-.icon_bcc24e path[d^="M18.09 1.63"] {
+[class^=icon__] path[d^="M18.09 1.63"] {
   fill: var(--status-danger-background) !important;
 }
 
