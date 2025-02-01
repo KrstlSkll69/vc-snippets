@@ -5,6 +5,6 @@
 * @description erm... title sums it up pretty good
 */
 
-[class*=panels_] :is([aria-label="Mute"], [aria-label="User Settings"]) {
-    order: 1;
+[class*=panels_] :is(button[aria-label="Deafen"], button[aria-label="Disable Game Activity"]) {
+    order: -1;
 }
