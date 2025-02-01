@@ -26,7 +26,7 @@ https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/NSFWtag.css
 ```
 Github:
 ```
-https://krstlskll69.github.io/vc-snippets/NSFWtag.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/NSFWtag.css
 ```
 ----
 
@@ -45,7 +45,7 @@ https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/NSFWChannelRecolor.css
 ```
 Github:
 ```
-https://krstlskll69.github.io/vc-snippets/NSFWChannelRecolor.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/NSFWChannelRecolor.css
 ```
 ----
 
@@ -64,7 +64,7 @@ https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/PrivateChannelRecolor.cs
 ```
 Github:
 ```
-https://krstlskll69.github.io/vc-snippets/PrivateChannelRecolor.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/PrivateChannelRecolor.css
 ```
 ---- 
 
@@ -83,7 +83,7 @@ https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/Channel&RolesRecolor.css
 ```
 Github:
 ```
-https://krstlskll69.github.io/vc-snippets/Channel%26RolesRecolor.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/Channel%26RolesRecolor.css
 ```
 ----
 
@@ -102,7 +102,7 @@ https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/StageRecolor.css
 ```
 Github:
 ```
-https://krstlskll69.github.io/vc-snippets/StageRecolor.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/StageRecolor.css
 ```
 ----
 
@@ -117,7 +117,7 @@ https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/IconRecolors.css
 ```
 Github:
 ```
-https://krstlskll69.github.io/vc-snippets/IconRecolors.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/IconRecolors.css
 ```
 ----
 
@@ -135,7 +135,7 @@ https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/OtherStuff/NewBoth.css
 ```
 Github:
 ```
-https://krstlskll69.github.io/vc-snippets/OtherStuff/NewBoth.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/NewBoth.css
 ```
 
 ----
@@ -159,7 +159,7 @@ https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/OtherStuff/RecolorAddFri
 ```
 Github:
 ```
-https://krstlskll69.github.io/vc-snippets/OtherStuff/RecolorAddFriendsTab.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/RecolorAddFriendsTab.css
 ```
 ----
 
@@ -171,7 +171,7 @@ https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/OtherStuff/hideGlobalDis
 ```
 Github:
 ```
-https://krstlskll69.github.io/vc-snippets/OtherStuff/hideGlobalDiscovery.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/hideGlobalDiscovery.css
 ```
 ---
 
@@ -186,7 +186,7 @@ https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/OtherStuff/Maxwell.css
 ```
 Github:
 ```
-https://krstlskll69.github.io/vc-snippets/OtherStuff/Maxwell.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/Maxwell.css
 ```
 ---
 
@@ -211,7 +211,7 @@ https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/OtherStuff/better-social
 ```
 Github:
 ```
-https://krstlskll69.github.io/vc-snippets/OtherStuff/better-social-links.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/refs/heads/main/OtherStuff/better-social-links.css
 ```
 ---
 
@@ -229,7 +229,7 @@ https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/OtherStuff/swapMicDeafen
 ```
 Github:
 ```
-https://krstlskll69.github.io/vc-snippets/OtherStuff/swapMicDeafen.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/refs/heads/main/OtherStuff/swapMicDeafen.css
 ```
 ---
 Disclaimer: While yes my CSS snippets are in [Faf4's ThemeLibrary](https://github.com/Faf4a/ThemeLibrary) they use `@imports` that lead here, so i cant guarantee no problems/issues with the
