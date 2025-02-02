@@ -6,4 +6,4 @@
 */
 
 [class*=unreadMentionsFixedFooter_]{bottom: 0px !important;}
-[class^=footer_]:has([class*=discoveryIcon_]) {display: none; }
+.footer__214dc, [class*=discoveryIcon_] {display: none; }
