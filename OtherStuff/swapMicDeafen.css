@@ -1,10 +1,10 @@
 /**
 * @name Swap Mic and Deafen Icon
 * @author krystalskullofficial, vending.machine
-* @version 1.0
+* @version 1.5
 * @description erm... title sums it up pretty good
 */
 
-[class*=panels_] :is(button[aria-label="Deafen"], button[aria-label="Disable Game Activity"]) {
+[class*=panels_] :is(button[aria-label="Deafen"], button[aria-label="Disable Game Activity"], button[aria-label="Enable Game Activity"]) {
     order: -1;
 }
