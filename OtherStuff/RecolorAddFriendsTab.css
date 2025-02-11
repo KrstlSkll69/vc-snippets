@@ -1,8 +1,11 @@
 /**
 * @name RecolorAddFriendsTab
 * @author krystalskullofficial
-* @version 2.0
 * @description Recolors the Add Friends Tab on discord *(because being able to add people isnt that important)*
+* @version 2.0
+* @authorId 929208515883569182
+* @website https://krstlskll69.github.io/
+* @source https://github.com/KrstlSkll69/vc-snippets?tab=readme-ov-file#12th-swap-mic-and-deafen-icon-
 */
 [data-tab-id=ADD_FRIEND]{
     background-color: var(--background-color) !important;
