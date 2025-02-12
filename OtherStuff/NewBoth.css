@@ -5,7 +5,7 @@
 * @version 4.1.0
 * @authorId 929208515883569182
 * @website https://krstlskll69.github.io/
-* @source https://github.com/KrstlSkll69/vc-snippets?tab=readme-ov-file#12th-swap-mic-and-deafen-icon-
+* @source https://github.com/KrstlSkll69/vc-snippets?tab=readme-ov-file#7th-showbothandstatus--this-snippet-shows-both-your-discord-username-and-status-at-the-same-time
 */
 [class^=avatarWrapper_] [class^=nameTag_] [class^=hovered_]::before{
   color: var(--text-muted);
