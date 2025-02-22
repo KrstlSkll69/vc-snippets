@@ -234,6 +234,10 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/refs/heads/main/OtherS
 ---
 Disclaimer: While yes my CSS snippets are in [Faf4's ThemeLibrary](https://github.com/Faf4a/ThemeLibrary) they use `@imports` that lead here, so i cant guarantee no problems/issues with the
 
+CreativeCommon Canonical URL https://creativecommons.org/licenses/by-nc-nd/4.0/ </br>
+`SPDX-License-Identifier: CCO OR GPL-3.0-or-later`
+
+
 
 
 
