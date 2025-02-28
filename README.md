@@ -131,11 +131,11 @@ BEFORE AND AFTER:
 
 git.gay:
 ```
-https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/OtherStuff/NewBoth.css
+https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/OtherStuff/ViewBoth.css
 ```
 Github:
 ```
-https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/NewBoth.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/ViewBoth.css
 ```
 
 ----
