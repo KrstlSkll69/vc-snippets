@@ -12,6 +12,11 @@
   content: "@";
 }
 
+[class^=avatarWrapper_] [class^=nameTag_] [class^=hovered_]::after{
+  color: var(--text-muted);
+  content: "#0000";
+}
+
 .container__37e49 .hovered__0263c, .hoverRoll__0263c.forceHover__0263c:not(.disabled__0263c) .default__0263c{
   opacity: 1!important;
   transform: none;
