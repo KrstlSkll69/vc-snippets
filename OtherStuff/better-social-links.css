@@ -27,8 +27,8 @@
     height: 20px;
     width: 20px;
 }
-[class*="anchorUnderlineOnHover_"][aria-label="twitter" i],
-[class*="anchorUnderlineOnHover_"][title="twitter" i]{
+[class*="anchorUnderlineOnHover_"][aria-label="X" i],
+[class*="anchorUnderlineOnHover_"][title="X" i]{
     color: var(--twitter-color);
 }
 [class*="anchorUnderlineOnHover_"][aria-label="instagram" i],
@@ -103,7 +103,7 @@
 [class*="socialLinks_"] [class*="anchorUnderlineOnHover_"]:hover{
     text-decoration: none;
 }
-[class*="socialLinks_"] [class*="anchorUnderlineOnHover_"][title="twitter" i]:after{
+[class*="socialLinks_"] [class*="anchorUnderlineOnHover_"][title="X" i]:after{
     content: "- Twitter";
 }
 [class*="socialLinks_"] [class*="anchorUnderlineOnHover_"][title="instagram" i]:after{
