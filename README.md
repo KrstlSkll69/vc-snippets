@@ -126,8 +126,8 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/IconRecolors.css
 BEFORE AND AFTER: 
 (hopfully you can tell which is which)
 
-![Before](https://cdn.nest.rip/uploads/4530d712-eb1f-45c5-8d5f-357a83062492.png)
-![After](https://cdn.nest.rip/uploads/514133ca-563c-468c-a312-882c5f651de8.png)
+![Before](https://cdn.nest.rip/uploads/6ef16d0d-ddfa-4531-8b49-7a753b1be8c4.png)
+![After](https://cdn.nest.rip/uploads/13ad9c29-91bd-4394-b7c0-e4938d45b4b0.png)
 
 git.gay:
 ```
@@ -220,8 +220,8 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/refs/heads/main/OtherS
 BEFORE AND AFTER: 
 (hopfully you can tell which is which)
 
-![Before](https://cdn.nest.rip/uploads/14bb14bb-9f12-468f-bd35-e27301523169.png)
-![After](https://cdn.nest.rip/uploads/b0bb9854-71bc-4fd9-ae4a-8bdb047596f1.png)
+![Before](https://cdn.nest.rip/uploads/5bfa6a84-e80d-42c8-a433-1a7a5083c457.png)
+![After](https://cdn.nest.rip/uploads/13ad9c29-91bd-4394-b7c0-e4938d45b4b0.png)
 
 git.gay:
 ```
