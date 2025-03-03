@@ -1,5 +1,5 @@
 # VC-css_snippets
-# These Css Snippets where built to work with Vencord, so iam unsure if they will work with other client mods
+# These CSS Snippets were built to work with Vencord, so I am unsure if they will work with other client mods.
 ### git.gay mirror: https://git.gay/KrstlSkll69/vc-snippets
 
 Important - 
