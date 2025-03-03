@@ -128,6 +128,15 @@ BEFORE AND AFTER:
 
 ![Before](https://cdn.nest.rip/uploads/6ef16d0d-ddfa-4531-8b49-7a753b1be8c4.png)
 ![After](https://cdn.nest.rip/uploads/13ad9c29-91bd-4394-b7c0-e4938d45b4b0.png)
+</br>
+
+⚠️-- The discriminator is tied to a custom variable *(This is not included by default)* --⚠️
+```css
+:root{
+  --Discriminator-ShowBoth: "#--!!Enter 4 custom numbers here!!--"
+}
+```
+</br>
 
 git.gay:
 ```
