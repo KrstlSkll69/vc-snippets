@@ -243,7 +243,7 @@ BEFORE AND AFTER:
 
 git.gay:
 ```
---*NA*--
+https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/SyncedWithGameRecolor.css
 ```
 Github:
 ```
