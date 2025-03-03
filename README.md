@@ -232,6 +232,24 @@ Github:
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/refs/heads/main/OtherStuff/swapMicDeafen.css
 ```
 ---
+
+#### 13th: Synced With Game Recolor ~   
+
+BEFORE AND AFTER: 
+(hopfully you can tell which is which)
+
+![Before](https://cdn.nest.rip/uploads/5a126a41-b11f-47cf-83a5-a7050bf47916.png)
+![After](https://cdn.nest.rip/uploads/7c56c72d-beef-43d6-8be6-16e5acc971d8.png)
+
+git.gay:
+```
+--*NA*--
+```
+Github:
+```
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/SyncedWithGameRecolor.css
+```
+---
 Disclaimer: While yes my CSS snippets are in [Faf4's ThemeLibrary](https://github.com/Faf4a/ThemeLibrary) they use `@imports` that lead here, so i cant guarantee no problems/issues with the
 
 CreativeCommon Canonical URL https://creativecommons.org/licenses/by-nc-nd/4.0/ </br>
