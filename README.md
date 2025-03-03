@@ -211,7 +211,7 @@ https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/OtherStuff/better-social
 ```
 Github:
 ```
-https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/refs/heads/main/OtherStuff/better-social-links.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/better-social-links.css
 ```
 ---
 
@@ -229,7 +229,7 @@ https://git.gay/KrstlSkll69/vc-snippets/raw/branch/main/OtherStuff/swapMicDeafen
 ```
 Github:
 ```
-https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/refs/heads/main/OtherStuff/swapMicDeafen.css
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/swapMicDeafen.css
 ```
 ---
 
