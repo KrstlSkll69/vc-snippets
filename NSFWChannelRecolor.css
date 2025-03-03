@@ -9,19 +9,11 @@
 */
 
 /*--- 'NSFW' Channel List Icon Recolor ---*/
-[class^=icon__]:has(path[d^="M18.09 1.63"]) path[d^="M18.09 1.63"] {
-    fill: var(--status-danger-background) !important;
-    border: 1px solid rebeccapurple !important;
-}
-
 /*--- 'NSFW' Chat Icon Recolor ---*/
-[class^=icon__] path[d^="M18.09 1.63"] {
-    fill: var(--status-danger-background) !important;
-}
-
 /*--- 'NSFW' Message Bar Icon Recolor ---*/
 [class^=icon__] path[d^="M18.09 1.63"] {
     fill: var(--status-danger-background) !important;
+    border: 1px solid rebeccapurple !important;
 }
 
 /*--- 'NSFW' Thread Icon Message Bar Icon Recolor ---*/

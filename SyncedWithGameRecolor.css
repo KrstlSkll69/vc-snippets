@@ -1,0 +1,16 @@
+/**
+* @name Synced With Game Recolor
+* @author krystalskullofficial
+* @description Recolors the icon for Channels that are synced with games so they are easier to see/notice.
+* @version 1.5.0
+* @authorId 929208515883569182
+* @website https://krstlskll69.github.io/
+* @source 
+*/
+:root{
+    --Custom-Color-Controller: rgb(175, 239, 165) 
+}
+
+[class^=icon__] path[d^="M24 5.7c0-1.54-.2-2.66-.34-3.23C23.35"] {
+    fill: var(--Custom-Color-Controller) !important;
+}

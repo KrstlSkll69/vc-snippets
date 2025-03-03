@@ -1,7 +1,7 @@
 /**
 * @name Private Channel recolor
 * @author krystalskullofficial
-* @description Recolors the icon for Private channels so they are easier to see/notice,
+* @description Recolors the icon for Private channels so they are easier to see/notice.
 * @version 5.1.0
 * @authorId 929208515883569182
 * @website https://krstlskll69.github.io/
@@ -9,21 +9,17 @@
 */
 
 /*---Lock Icon Channel List Recolor---*/
-[class^=icon__]:has(path[d^="M16 4h.5v"]) path[d^="M16 4h.5v"] {
+[class^=icon__] path[d^="M16 4h.5v"] {
     fill: var(--yellow-200)!important;
     border: 1px solid rebeccapurple !important; }
 
 /*---Stages Lock Icon Channel List Recolor (since they use a differnt lock for some reason)----*/
-[class^=icon__]:has(path[d^="M16.5 18H16a1"]) path[d^="M16.5 18H16a1"] {
+[class^=icon__] path[d^="M16.5 18H16a1"] {
     fill : var(--yellow-200) !important;
     border: 1px solid rebeccapurple !important;
 }
 
 /*--- Chat Lock Icon Recolor ---*/
-[class^=icon__] path[d^="M16 4h.5v"] {
-    fill: var(--yellow-200) !important;
-}
-
 /*--- Lock Icon Message Bar Channels ---*/
 [class^=icon__] path[d^="M16 4h.5v"] {
     fill: var(--yellow-200) !important;

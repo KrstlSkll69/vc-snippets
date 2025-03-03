@@ -9,17 +9,9 @@
 */
 
 /*--- Channel List Icon Recolor ---*/
-[class^=icon__]:has(path[d^="M18.5 23c.88"]) path[d^="M18.5 23c.88"] {
-    color: var(--green-360) !important;
-    border: 1px solid rebeccapurple !important;
-}
-
+/*--- Channels&Roles Message bar Channels ---*/
 /*--- Chat Icon Recolor ---*/
 [class^=icon__] path[d^="M18.5 23c.88"] {
-    fill: var(--green-360) !important;
-}
-
-/*--- Channels&Roles Message bar Channels ---*/
-[class^=icon__] path[d^="M18.5 23c.88" ] {
-    fill: var(--green-360) !important;
+    color: var(--green-360) !important;
+    border: 1px solid rebeccapurple !important;
 }
