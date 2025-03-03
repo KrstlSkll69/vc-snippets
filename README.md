@@ -126,7 +126,7 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/IconRecolors.css
 BEFORE AND AFTER: 
 (hopfully you can tell which is which)
 
-![Before](https://cdn.nest.rip/uploads/6ef16d0d-ddfa-4531-8b49-7a753b1be8c4.png)
+![Before](https://cdn.nest.rip/uploads/6ef16d0d-ddfa-4531-8b49-7a753b1be8c4.png) </b>
 ![After](https://cdn.nest.rip/uploads/13ad9c29-91bd-4394-b7c0-e4938d45b4b0.png)
 </br>
 
@@ -153,12 +153,12 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/ViewBo
 _Note: this snippet requires Vencord's ["ThemeAttributes"](https://vencord.dev/plugins/ThemeAttributes) plugin_
 
 BEFORE AND AFTER: 
-(hopfully you can tell which is which)
+(hopfully you can tell which is which) </br>
 ![BeforeRecolor](https://cdn.nest.rip/uploads/c46e1af2-cb5d-4214-9418-dd6e08ed2bf9.png)
 ![AfterRecolor](https://cdn.nest.rip/uploads/c4a990a2-c5ec-4c9e-89c4-18e2675bc39e.png)
 
 BEFORE AND AFTER _while tab is selected_: 
-(Hopfully you can tell which is which)
+(Hopfully you can tell which is which) </br>
 ![BeforeRecolorWhileTabSelected](https://cdn.nest.rip/uploads/d4a09457-9be9-43e3-a405-a549b8ea88e5.png)
 ![AfterRecolorWhileTabSelected](https://cdn.nest.rip/uploads/ffb0d9ab-eb95-4cec-b79e-ea9f8a7f7d7d.png)
 
