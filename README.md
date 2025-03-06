@@ -259,6 +259,12 @@ Github:
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/SyncedWithGameRecolor.css
 ```
 ---
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=KrstlSkll69/vc-snippets&type=Timeline)](https://star-history.com/#KrstlSkll69/vc-snippets&Timeline)
+---
 Disclaimer: While yes my CSS snippets are in [Faf4's ThemeLibrary](https://github.com/Faf4a/ThemeLibrary) they use `@imports` that lead here, so i cant guarantee no problems/issues with the
 
 CreativeCommon Canonical URL https://creativecommons.org/licenses/by-nc-nd/4.0/ </br>
