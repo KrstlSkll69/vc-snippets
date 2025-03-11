@@ -2,7 +2,7 @@
 * @name ViewBoth@andStatus
 * @author krystalskullofficial, riddim_glitch
 * @description View both STATUS and USERNAME at the same time.
-* @version 5.0.1
+* @version 5.1.0
 * @authorId 929208515883569182
 * @website https://krstlskll69.github.io/
 * @source https://github.com/KrstlSkll69/vc-snippets?tab=readme-ov-file#7th-showbothandstatus--this-snippet-shows-both-your-discord-username-and-status-at-the-same-time
@@ -17,7 +17,6 @@ This is a custom variable that someone can use to give themself a custom 'discri
 
 */
 
-
 [class^=avatarWrapper_] [class^=nameTag_] [class^=hovered_]::before{
   color: var(--text-muted);
   content: "@";
@@ -26,6 +25,7 @@ This is a custom variable that someone can use to give themself a custom 'discri
 [class^=avatarWrapper_] [class^=nameTag_] [class^=hovered_]::after{
   color: var(--text-muted);
   content: var(--Discriminator-ShowBoth);
+  font-family: var(--font-code) !important;
 }
 
 .container__37e49 .hovered__0263c, .hoverRoll__0263c.forceHover__0263c:not(.disabled__0263c) .default__0263c{
