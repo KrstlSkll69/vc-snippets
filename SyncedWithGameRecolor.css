@@ -7,6 +7,12 @@
 * @website https://krstlskll69.github.io/
 * @source https://github.com/KrstlSkll69/vc-snippets?tab=readme-ov-file#13th-synced-with-game-recolor-
 */
+
+/*
+* TODO: Find a built in Discord Var for this, instead of making my own.
+* SRC: https://docs.betterdiscord.app/discord/variables
+*/
+
 :root{
     --Custom-Color-Controller: oklch(89.08% 0.1185 141.18)
 }

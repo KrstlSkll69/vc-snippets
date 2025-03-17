@@ -105,6 +105,11 @@
 
 /*-----------------------------------------------------------------------------------------------------*/
 
+/*
+* TODO: Find a built in Discord Var for this, instead of making my own.
+* SRC: https://docs.betterdiscord.app/discord/variables
+*/
+
 :root{
     --Custom-Color-Controller: oklch(89.08% 0.1185 141.18)
 }
