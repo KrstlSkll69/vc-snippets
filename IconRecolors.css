@@ -21,6 +21,11 @@
     fill: var(--status-danger-background) !important;
 }
 
+/*--- Stupid Ahh channel search icon ---*/
+[class^=searchResultChannelIcon__] path[d^="M18.09 1.63c.4-.7 1.43-.7" ] {
+    fill: var(--status-danger-background) !important;
+}
+
 /*--- Ping Warning ---*/
 [class^=ping_] path[d^="M18.09 14.63c.4-.7"] {
     fill: var(--status-danger-background) !important;
@@ -50,6 +55,16 @@
     fill: var(--yellow-200) !important;
 }
 
+/*--- Stupid Ahh channel search icon ---*/
+[class^=searchResultChannelIcon__] path[d^="M16 4h.5v-.5a2.5 2.5 0 0 1 5" ] {
+    fill: var(--yellow-200) !important;
+}
+
+/*--- Stupid Ahh channel search icon(For stages) ---*/
+[class^=searchResultChannelIcon__] path[d^="M16.5 18H16a1 1 0 0 0-1" ] {
+    fill: var(--yellow-200) !important;
+}
+
 /*--- Vencord's UserVoiceShow Icon Recolor ---*/
 .vc-uvs-speaker path[d^="M16 4h.5v"] {
     fill: var(--yellow-200) !important;
@@ -68,6 +83,16 @@
     color: var(--blue-330) !important;
 }
 
+/*--- Stupid Ahh channel search icon ---*/
+[class^=searchResultChannelIcon__] path[d^="M19.61 18.25a1.08 1.08 0 0 1-.07-1.33" ] {
+    fill: var(--blue-330) !important;
+}
+
+/*--- Stupid Ahh channel search icon(Locked Stage) ---*/
+[class^=searchResultChannelIcon__] path[d^="M21.92 14.08c.32.27.86.15.93-.26A11" ] {
+    fill: var(--blue-330) !important;
+}
+
 /*-----------------------------------------------------------------------------------------------------*/
 
 /*--- Channel List Icon Recolor ---*/
@@ -81,9 +106,14 @@
 /*-----------------------------------------------------------------------------------------------------*/
 
 :root{
-    --Custom-Color-Controller: rgb(175, 239, 165) 
+    --Custom-Color-Controller: oklch(89.08% 0.1185 141.18)
 }
 
 [class^=icon__] path[d^="M24 5.7c0-1.54-.2-2.66-.34-3.23C23.35"] {
+    fill: var(--Custom-Color-Controller) !important;
+}
+
+/*--- Stupid Ahh channel search icon ---*/
+[class^=searchResultChannelIcon__] path[d^="M24 5.7c0-1.54-.2-2.66-.34-3.23C23.35" ] {
     fill: var(--Custom-Color-Controller) !important;
 }
