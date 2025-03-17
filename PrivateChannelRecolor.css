@@ -2,7 +2,7 @@
 * @name Private Channel recolor
 * @author krystalskullofficial
 * @description Recolors the icon for Private channels so they are easier to see/notice.
-* @version 6.0.0
+* @version 6.5.0
 * @authorId 929208515883569182
 * @website https://krstlskll69.github.io/
 * @source https://github.com/KrstlSkll69/vc-snippets?tab=readme-ov-file#3rd-private-channel-recolor-
@@ -27,6 +27,16 @@
 
 /*--- Lock Thread Icon Message Bar Icon Recolor ---*/
 [class^=icon__] path[d^="M16 18h.5v"] {
+    fill: var(--yellow-200) !important;
+}
+
+/*--- Stupid Ahh channel search icon ---*/
+[class^=searchResultChannelIcon__] path[d^="M16 4h.5v-.5a2.5 2.5 0 0 1 5" ] {
+    fill: var(--yellow-200) !important;
+}
+
+/*--- Stupid Ahh channel search icon(For stages) ---*/
+[class^=searchResultChannelIcon__] path[d^="M16.5 18H16a1 1 0 0 0-1" ] {
     fill: var(--yellow-200) !important;
 }
 

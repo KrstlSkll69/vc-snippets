@@ -2,7 +2,7 @@
 * @name NSFWtag
 * @author ryan.0324, krystalskullofficial
 * @description A tag for 'NSFW' channels so they are easier to see/notice. Also recolors the small triangle too be red,
-* @version 6.0.0
+* @version 6.5.0
 * @authorId 929208515883569182
 * @website https://krstlskll69.github.io/
 * @source https://github.com/KrstlSkll69/vc-snippets?tab=readme-ov-file#1st-nsfw-channel-tag-
@@ -43,6 +43,10 @@
     border: 1px solid rebeccapurple !important;
   }
 
+/*--- Stupid Ahh channel search icon ---*/
+[class^=searchResultChannelIcon__] path[d^="M18.09 1.63c.4-.7 1.43-.7" ] {
+  fill: var(--status-danger-background) !important;
+}
 /*--------------*/
 
 /*--- Ping Warning ---*/
