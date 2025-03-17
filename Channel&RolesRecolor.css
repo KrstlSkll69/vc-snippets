@@ -13,5 +13,7 @@
 /*--- Chat Icon Recolor ---*/
 [class^=icon__] path[d^="M18.5 23c.88"] {
     color: var(--green-360) !important;
+    /*Fill works most places except one place... idk why that is*/
+    fill: var(--green-360) !important;
     border: 1px solid rebeccapurple !important;
 }
