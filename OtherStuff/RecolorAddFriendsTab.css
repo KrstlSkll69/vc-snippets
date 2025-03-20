@@ -7,19 +7,23 @@
 * @website https://krstlskll69.github.io/
 * @source https://github.com/KrstlSkll69/vc-snippets?tab=readme-ov-file#8th-add-friends-tab-recolour--recolours-the-add-friend-tab-so-it-matchs-with-the-tabs
 */
-[data-tab-id=ADD_FRIEND]{
+
+[data-tab-id=ADD_FRIEND] {
     background-color: var(--background-color) !important;
     color: var(--interactive-normal) !important;
+
+    &:hover {
+        background-color: var(--background-modifier-hover) !important;
+        color: var(--interactive-hover) !important;
+    }
 }
-[data-tab-id=ADD_FRIEND]:hover{
-    background-color: var(--background-modifier-hover) !important;
-    color: var(--interactive-hover) !important;
-}
-[data-tab-id=ADD_FRIEND][aria-selected=true]{
+
+[data-tab-id=ADD_FRIEND][aria-selected=true] {
     background-color: var(--background-modifier-selected) !important;
     color: var(--interactive-active) !important;
-}
-[data-tab-id=ADD_FRIEND][aria-selected=true]:hover{
-    background-color: var(--background-modifier-hover) !important;
-    color: var(--interactive-active) !important;
+
+    &:hover {
+        background-color: var(--background-modifier-hover) !important;
+        color: var(--interactive-active) !important;
+    }
 }
