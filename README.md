@@ -111,8 +111,10 @@ BEFORE AND AFTER:
   --Discriminator-ShowBoth: "#--!!Enter 4 custom numbers here!!--"
 }
 ```
+
 </br>
 Github:
+
 ```
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/ViewBoth.css
 ```
