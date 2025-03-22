@@ -260,6 +260,21 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/SyncedWithGameRec
 ```
 ---
 
+#### 14th: Better Forward Icon ~   
+
+BEFORE AND AFTER: 
+(hopfully you can tell which is which)
+
+![Before](https://cdn.nest.rip/uploads/cfb37cfb-a684-4bf0-ac83-4cf442892dda.png)
+![After](https://cdn.nest.rip/uploads/a8a5791f-0c51-4004-a58b-39721dd7ba53.png)
+
+
+Github:
+```
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/better-foward-icon.css
+```
+---
+
 
 ## Star History
 
