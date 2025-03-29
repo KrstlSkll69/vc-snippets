@@ -13,17 +13,17 @@
     color: var(--interactive-normal) !important;
 
     &:hover {
-        background-color: var(--background-modifier-hover) !important;
+        background-color: var(--button-secondary-background-hover) !important;
         color: var(--interactive-hover) !important;
     }
 }
 
 [data-tab-id=ADD_FRIEND][aria-selected=true] {
-    background-color: var(--background-modifier-selected) !important;
+    background-color: var(--button-secondary-background) !important;
     color: var(--interactive-active) !important;
 
     &:hover {
-        background-color: var(--background-modifier-hover) !important;
+        background-color: var(--button-secondary-background-hover) !important;
         color: var(--interactive-active) !important;
     }
 }
