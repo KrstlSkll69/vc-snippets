@@ -1,0 +1,32 @@
+/**
+* @name Search As Button
+* @author Madeline, KrystalSkullOfficial
+* @description Makes Search Icon a button.
+* @version 3.0
+*/
+
+.search__97492:not(.open__97492)>.searchBar__97492 {
+    width: 30px;
+    background: transparent;
+    border: none;
+}
+
+.search__97492:not(.open__97492) .iconLayout_fea832 {
+    cursor: pointer;
+}
+
+.search__97492:not(.open__97492):hover .icon_fea832 {
+    color: var(--icon-secondary);
+}
+
+.open__97492 .iconContainer_fea832 {
+    top: -1px;
+}
+
+.iconContainer_fea832 {
+    margin-bottom: -6px !important;
+    width: 20px;
+    height: 20px;
+    left: -8px;
+    color: var(--icon-tertiary);
+}
