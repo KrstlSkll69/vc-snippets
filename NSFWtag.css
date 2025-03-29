@@ -2,65 +2,73 @@
 * @name NSFWtag
 * @author ryan.0324, krystalskullofficial
 * @description A tag for 'NSFW' channels so they are easier to see/notice. Also recolors the small triangle too be red,
-* @version 7.0.1
+* @version 8.0.0
 * @authorId 929208515883569182
 * @website https://krstlskll69.github.io/
 * @source https://github.com/KrstlSkll69/vc-snippets?tab=readme-ov-file#1st-nsfw-channel-tag-
 */
 
+:root{
+
+}
+
 /*--- Channel list 'NSFW' Label ---*/
 [class*=linkTop_]:has([class*=iconContainer_] [d^="M18.09 1.63"]) > [class*=children_]::after {
-    content: "NSFW"; 
-    background: var(--status-danger-background);
-    color: var(--status-danger-text);
-    padding: 0 6px;
-    border-radius: 8px;
-    font-size: 12px;
-    font-weight: 700;
-    letter-spacing: .02em;
-    line-height: 16px;
-    margin-left: 4px;
+  content: "NSFW"; 
+  background: var(--status-danger-background);
+  color: var(--status-danger-text);
+  font-family: var(--font-code);
+  padding: 0 4px;
+  border-radius: 4px;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: .02em;
+  line-height: 17px;
+  margin-left: 4px;
 }
 /*--- 'NSFW' Chat Label ---*/
 [class*=iconWrapper_]:has([d^="M18.09 1.63"]) ~ [class*=titleWrapper_] h1::after {
-    content: "NSFW";
-    background: var(--status-danger-background);
-    color: var(--status-danger-text);
-    padding: 0 6px;
-    border-radius: 8px;
-    font-size: 12px;
-    font-weight: 700;
-    letter-spacing: .02em;
-    line-height: 16px;
-    margin-left: 7px;
+  content: "NSFW"; 
+  background: var(--status-danger-background);
+  color: var(--status-danger-text);
+  font-family: var(--font-code);
+  padding: 0 4px;
+  border-radius: 4px;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: .02em;
+  line-height: 17px;
+  margin-left: 4px;
 }
 
 /*--- 'NSFW' Message bar icon label ---*/
 [class*=autocompleteRowIcon__]:has([d^="M18.09 1.63c.4-.7 1.43-.7"]) ~ [class*=autocompleteRowContentPrimary__] ::after {
-  content: "NSFW";
+  content: "NSFW"; 
   background: var(--status-danger-background);
   color: var(--status-danger-text);
-  padding: 0 6px;
-  border-radius: 8px;
-  font-size: 12px;
-  font-weight: 700;
+  font-family: var(--font-code);
+  padding: 0 4px;
+  border-radius: 4px;
+  font-size: 13px;
+  text-transform: uppercase;
   letter-spacing: .02em;
-  line-height: 16px;
-  margin-left: 7px;
+  line-height: 17px;
+  margin-left: 4px;
 }
 
 /*--- Stupid Ahh channel serach icon label ---*/
 [class*=searchResultChannelIcon__]:has([d^="M18.09 1.63c.4-.7 1.43-.7"]) ~ [class*=searchResultChannelCategory__]::after {
-  content: "NSFW";
+  content: "NSFW"; 
   background: var(--status-danger-background);
   color: var(--status-danger-text);
-  padding: 0 6px;
-  border-radius: 8px;
-  font-size: 12px;
-  font-weight: 700;
+  font-family: var(--font-code);
+  padding: 0 4px;
+  border-radius: 4px;
+  font-size: 13px;
+  text-transform: uppercase;
   letter-spacing: .02em;
-  line-height: 16px;
-  margin-left: 7px;
+  line-height: 17px;
+  margin-left: 4px;
 }
 
 /*--- Channel list Icon Recolor ---*/
