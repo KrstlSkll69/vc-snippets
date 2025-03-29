@@ -146,7 +146,7 @@ Github:
 ```
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/hideGlobalDiscovery.css
 ```
----
+----
 
 ####  10th: cat (it watches your soul) ~   
 _Note: this snippet requires Vencord's ["ThemeAttributes"](https://vencord.dev/plugins/ThemeAttributes) plugin_
