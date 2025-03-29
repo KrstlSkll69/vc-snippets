@@ -16,8 +16,8 @@ Adds a small RED text box that says NSFW next to those channels and also colors 
 BEFORE AND AFTER:
 (hopfully you can tell which is which)
 
-![before-recoloandmarkerNSFW](https://cdn.nest.rip/uploads/0a42a8f3-3bfb-4ce0-95f9-0cd59ec5ae32.png)
-![after-recoloandmarkerrNSFW](https://cdn.nest.rip/uploads/591db449-e2ab-4376-95b9-a10b2d1a4a90.png)
+![before-recoloandmarkerNSFW](https://cdn.nest.rip/uploads/f2911f73-3644-4215-bc83-eb34d9e17705.png)
+![after-recoloandmarkerrNSFW](https://cdn.nest.rip/uploads/53ad7b4d-a870-4bf5-936a-3a2ba486377e.png)
 </br>
 Github:
 ```
