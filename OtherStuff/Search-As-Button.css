@@ -23,6 +23,14 @@
     top: -1px;
 }
 
+.visual-refresh .iconContainer_fea832 {
+    margin-bottom: -6px !important;
+    width: 20px;
+    height: 20px;
+    left: -8px;
+    color: var(--icon-tertiary);
+}
+
 .iconContainer_fea832 {
     margin-bottom: 0px !important;
     width: 20px;
