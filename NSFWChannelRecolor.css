@@ -2,7 +2,7 @@
 * @name NSFW recolor
 * @author krystalskullofficial
 * @description Recolors the icon for 'NSFW' channels so they are easier to see/notice.
-* @version 6.5.0
+* @version 6.5.5
 * @authorId 929208515883569182
 * @website https://krstlskll69.github.io/
 * @source https://github.com/KrstlSkll69/vc-snippets?tab=readme-ov-file#2nd-nsfw-channel-recolor-
@@ -29,4 +29,9 @@
 /*--- Ping Warning ---*/
 [class^=ping_] path[d^="M18.09 14.63c.4-.7"] {
     fill: var(--status-danger-background) !important;
+}
+
+/*--------------*/
+[class^=contents__] path[d^=" M-10,10 C-10,10 10,-10 10,-10" ] {
+    stroke: var(--status-danger-background) !important ;
 }
