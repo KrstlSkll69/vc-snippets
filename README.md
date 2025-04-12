@@ -140,12 +140,14 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/Recolo
 ```
 ----
 
-#### 9th: hidePinDiscovery ~ Hides the new pinned Discovery Icon  
+#### 9th: hidePinDiscovery ~ Hides the Discovery Icon  
 </br>
-Github:
+Github: </br>
 ```
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/hideGlobalDiscovery.css
 ```
+</br>
+
 ----
 
 ####  10th: cat (it watches your soul) ~   
