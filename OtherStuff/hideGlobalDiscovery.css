@@ -1,12 +1,11 @@
 /**
 * @name hidePinDiscovery
-* @author krystalskullofficial
+* @author krystalskullofficial, dav154
 * @description Hides the new pinned Discovery Icon.
-* @version 4.1.0
+* @version 5.0.0
 * @authorId 929208515883569182
 * @website https://krstlskll69.github.io/
 * @source https://github.com/KrstlSkll69/vc-snippets#9th-hidepindiscovery--hides-the-new-pinned-discovery-icon
 */
 
-[class*=unreadMentionsFixedFooter_]{bottom: 0px !important;}
-.footer__214dc, [class*=discoveryIcon_] {display: none; }
+.tutorialContainer__650eb + .listItem__650eb {display: none;}
