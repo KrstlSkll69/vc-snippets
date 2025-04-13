@@ -9,3 +9,7 @@
 */
 
 .tutorialContainer__650eb + .listItem__650eb {display: none;}
+
+/*-- for backwards compatibility since people still use the old one ---*/
+[class*=unreadMentionsFixedFooter_]{bottom: 0px !important;}
+.footer__214dc, [class*=discoveryIcon_] {display: none; }
