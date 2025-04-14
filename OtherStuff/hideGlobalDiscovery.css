@@ -2,7 +2,7 @@
 * @name hideDiscovery
 * @author krystalskullofficial, dav154
 * @description Hides the new pinned Discovery Icon.
-* @version 5.5.1
+* @version 5.5.2
 * @authorId 929208515883569182
 * @website https://krstlskll69.github.io/
 * @source https://github.com/KrstlSkll69/vc-snippets#9th-hidepindiscovery--hides-the-new-pinned-discovery-icon
@@ -11,5 +11,6 @@
 .tutorialContainer__650eb + .listItem__650eb {display: none;}
 
 /*-- for backwards compatibility since people still use the old one ---*/
+/*-- TODO: Remove this once its for sure no one is on the OLD-UI ---*/
 [class*=unreadMentionsFixedFooter_]{bottom: 0px !important;}
 .footer__214dc, [class*=discoveryIcon_] {display: none; }

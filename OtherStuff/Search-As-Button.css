@@ -2,7 +2,7 @@
 * @name Search As Button
 * @author Madeline, KrystalSkullOfficial
 * @description Makes Search Icon a button.
-* @version 3.0
+* @version 3.5
 */
 
 .search__97492:not(.open__97492)>.searchBar__97492 {
@@ -29,8 +29,10 @@
     height: 20px;
     left: -8px;
     color: var(--icon-tertiary);
+    right: 0
 }
 
+/*-- TODO: Remove this once its for sure no one is on the OLD-UI --*/
 .iconContainer_fea832 {
     margin-bottom: 0px !important;
     width: 20px;
