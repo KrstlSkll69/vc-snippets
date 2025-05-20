@@ -8,6 +8,9 @@
 * @source https://github.com/KrstlSkll69/vc-snippets?tab=readme-ov-file#12th-swap-mic-and-deafen-icon-
 */
 
-[class*=panels_] :is(button[aria-label="Deafen"], button[aria-label="Disable Game Activity"], button[aria-label="Enable Game Activity"]) {
+[class*=panels_] :is(button[aria-label="Deafen"], 
+button[aria-label="Disable Game Activity"], button[aria-label="Enable Game Activity"], /*== https://vencord.dev/plugins/GameActivityToggle ==*/
+button[aria-label="Turn off Spotify activity"], button[aria-label="Turn on Spotify activity"]) /*== https://cdn.nest.rip/uploads/443c26e7-e8d7-4f14-8fd9-eafeeb1df88b.png ==*/
+{
     order: -1;
 }
