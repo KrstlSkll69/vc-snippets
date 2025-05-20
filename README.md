@@ -5,8 +5,7 @@ Important -
 1. As a native english speaker these snippets were and are developed with that language, I cant not guarantee that they will work with any-other language
 2. As per a request 'NSFW' Label now appears that top of chat
 3. There is no icon diff for a stage marked 'NSFW' on desktop so those arnt labeled *(until i find a way to label them)*
-4. I have seen and have different install of Discord to play around on the `Desktop Visual Refresh` for discord but due to the fact that they are still heavily making changes to  it. Im going to wait until this actually comes out to update my snippets for it... Soo they might work or they might not work  
-5. MaxWell is joke snippet ~ cant not guarantee that he wont actually steal your soul  
+4. MaxWell is joke snippet ~ cant not guarantee that he wont actually steal your soul  
 
 ----
 
