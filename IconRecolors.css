@@ -31,6 +31,12 @@
     fill: var(--status-danger-background) !important;
 }
 
+/*--- Media Channels ---*/
+[class^=icon__] path[d^="M19.91 14.63a1.06"] {
+    fill: var(--status-danger-background) !important;
+    border: 1px solid rebeccapurple !important;
+}
+
 /*--------------*/
 [class^=contents__] path[d^=" M-10,10 C-10,10 10,-10 10,-10" ] {
     stroke: var(--status-danger-background) !important ;
