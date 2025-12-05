@@ -12,32 +12,33 @@
 /*--- 'NSFW' Chat Icon Recolor ---*/
 /*--- 'NSFW' Message Bar Icon Recolor ---*/
 [class^=icon__] path[d^="M18.09 1.63"] {
-    fill: var(--status-danger-background) !important;
+    fill: var(--red-400) !important;
     border: 1px solid rebeccapurple !important;
 }
 
 /*--- 'NSFW' Thread Icon Message Bar Icon Recolor ---*/
 [class^=icon__] path[d^="M18.09 15.63c.4-.7" ] {
-    fill: var(--status-danger-background) !important;
+    fill: var(--red-400) !important;
 }
 
 /*--- Stupid Ahh channel search icon ---*/
 [class^=searchResultChannelIcon__] path[d^="M18.09 1.63c.4-.7 1.43-.7" ] {
-    fill: var(--status-danger-background) !important;
+    fill: var(--red-400) !important;
 }
 
 /*--- Ping Warning ---*/
 [class^=ping_] path[d^="M18.09 14.63c.4-.7"] {
-    fill: var(--status-danger-background) !important;
+    fill: var(--red-400) !important;
 }
 
 /*--- Media Channels ---*/
 [class^=icon__] path[d^="M19.91 14.63a1.06"] {
-    fill: var(--status-danger-background) !important;
+    fill: var(--red-400) !important;
     border: 1px solid rebeccapurple !important;
 }
 
 /*--------------*/
 [class^=contents__] path[d^=" M-10,10 C-10,10 10,-10 10,-10" ] {
     stroke: var(--status-danger-background) !important ;
+
 }
