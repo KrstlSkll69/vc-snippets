@@ -2,7 +2,7 @@
 * @name NSFW recolor
 * @author krystalskullofficial
 * @description Recolors the icon for 'NSFW' channels so they are easier to see/notice.
-* @version 7.0.0
+* @version 7.0.5
 * @authorId 929208515883569182
 * @website https://krstlskll69.github.io/
 * @source https://github.com/KrstlSkll69/vc-snippets?tab=readme-ov-file#2nd-nsfw-channel-recolor-
@@ -37,10 +37,12 @@
     border: 1px solid rebeccapurple !important;
 }
 
-/*--------------*/
+
+/* 
+I forgot to actually write down what this is meant todo so until then this will just be commented out.
+
 [class$=contents] path[d^=" M-10,10 C-10,10 10,-10 10,-10" ] {
     stroke: var(--status-danger-background) !important ;
-
 }
-
+*/
 
