@@ -9,34 +9,34 @@
 */
 
 /*---Lock Icon Channel List Recolor---*/
-[class^=icon__] path[d^="M16 4h.5v"] {
+[class$=icon] path[d^="M16 4h.5v"] {
     fill: var(--yellow-200)!important;
     border: 1px solid rebeccapurple !important; }
 
 /*---Stages Lock Icon Channel List Recolor (since they use a differnt lock for some reason)----*/
-[class^=icon__] path[d^="M16.5 18H16a1"] {
+[class$=icon] path[d^="M16.5 18H16a1"] {
     fill : var(--yellow-200) !important;
     border: 1px solid rebeccapurple !important;
 }
 
 /*--- Chat Lock Icon Recolor ---*/
 /*--- Lock Icon Message Bar Channels ---*/
-[class^=icon__] path[d^="M16 4h.5v"] {
+[class$=icon] path[d^="M16 4h.5v"] {
     fill: var(--yellow-200) !important;
 }
 
 /*--- Lock Thread Icon Message Bar Icon Recolor ---*/
-[class^=icon__] path[d^="M16 18h.5v"] {
+[class$=icon] path[d^="M16 18h.5v"] {
     fill: var(--yellow-200) !important;
 }
 
 /*--- Stupid Ahh channel search icon ---*/
-[class^=searchResultChannelIcon__] path[d^="M16 4h.5v-.5a2.5 2.5 0 0 1 5" ] {
+[class$=searchResultChannelIcon] path[d^="M16 4h.5v-.5a2.5 2.5 0 0 1 5" ] {
     fill: var(--yellow-200) !important;
 }
 
 /*--- Stupid Ahh channel search icon(For stages) ---*/
-[class^=searchResultChannelIcon__] path[d^="M16.5 18H16a1 1 0 0 0-1" ] {
+[class$=searchResultChannelIcon] path[d^="M16.5 18H16a1 1 0 0 0-1" ] {
     fill: var(--yellow-200) !important;
 }
 
@@ -44,3 +44,4 @@
 .vc-uvs-speaker path[d^="M16 4h.5v"] {
     fill: var(--yellow-200) !important;
 }
+
