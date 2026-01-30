@@ -2,7 +2,7 @@
 * @name Synced With Game Recolor
 * @author krystalskullofficial
 * @description Recolors the icon for Channels that are synced with games so they are easier to see/notice.
-* @version 3.0.0
+* @version 3.5.0
 * @authorId 929208515883569182
 * @website https://krstlskll69.github.io/
 * @source https://github.com/KrstlSkll69/vc-snippets?tab=readme-ov-file#13th-synced-with-game-recolor-
@@ -17,11 +17,11 @@
     --Custom-Color-Controller: oklch(89.08% 0.1185 141.18)
 }
 
-[class$=icon] path[d^="M24 5.7c0-1.54-.2-2.66-.34-3.23C23.35"] {
+[class^=icon] path[d^="M24 5.7c0-1.54-.2-2.66-.34-3.23C23.35"] {
     fill: var(--Custom-Color-Controller) !important;
 }
 
 /*--- Stupid Ahh channel search icon ---*/
-[class$=searchResultChannelIcon] path[d^="M24 5.7c0-1.54-.2-2.66-.34-3.23C23.35" ] {
+[class^=searchResultChannelIcon] path[d^="M24 5.7c0-1.54-.2-2.66-.34-3.23C23.35" ] {
     fill: var(--Custom-Color-Controller) !important;
 }
