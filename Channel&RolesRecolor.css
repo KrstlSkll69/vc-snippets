@@ -2,7 +2,7 @@
 * @name Channels & Role recolor
 * @author krystalskullofficial
 * @description Recolors the icon on Channel & Role tab so they are easier to see/notice.
-* @version 6.0.0
+* @version 6.5.0
 * @authorId 929208515883569182
 * @website https://krstlskll69.github.io/
 * @source https://github.com/KrstlSkll69/vc-snippets?tab=readme-ov-file#4th-channels--roles-recolor-
@@ -11,10 +11,11 @@
 /*--- Channel List Icon Recolor ---*/
 /*--- Channels&Roles Message bar Channels ---*/
 /*--- Chat Icon Recolor ---*/
-[class$=icon] path[d^="M18.5 23c.88"] {
+[class^=icon] path[d^="M18.5 23c.88"] {
     color: var(--green-360) !important;
     /*color works most places except one place... idk why that is*/
     fill: var(--green-360) !important;
     border: 1px solid rebeccapurple !important;
 
 }
+
