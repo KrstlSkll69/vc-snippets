@@ -2,7 +2,7 @@
 * @name NSFW recolor
 * @author krystalskullofficial
 * @description Recolors the icon for 'NSFW' channels so they are easier to see/notice.
-* @version 7.0.5
+* @version 7.5.0
 * @authorId 929208515883569182
 * @website https://krstlskll69.github.io/
 * @source https://github.com/KrstlSkll69/vc-snippets?tab=readme-ov-file#2nd-nsfw-channel-recolor-
@@ -11,28 +11,28 @@
 /*--- 'NSFW' Channel List Icon Recolor ---*/
 /*--- 'NSFW' Chat Icon Recolor ---*/
 /*--- 'NSFW' Message Bar Icon Recolor ---*/
-[class$=icon] path[d^="M18.09 1.63"] {
+[class^=icon] path[d^="M18.09 1.63"] {
     fill: var(--red-400) !important;
     border: 1px solid rebeccapurple !important;
 }
 
 /*--- 'NSFW' Thread Icon Message Bar Icon Recolor ---*/
-[class$=icon] path[d^="M18.09 15.63c.4-.7" ] {
+[class^=icon] path[d^="M18.09 15.63c.4-.7" ] {
     fill: var(--red-400) !important;
 }
 
 /*--- Stupid Ahh channel search icon ---*/
-[class$=searchResultChannelIcon] path[d^="M18.09 1.63c.4-.7 1.43-.7" ] {
+[class^=searchResultChannelIcon] path[d^="M18.09 1.63c.4-.7 1.43-.7" ] {
     fill: var(--red-400) !important;
 }
 
 /*--- Ping Warning ---*/
-[class$=ping] path[d^="M18.09 14.63c.4-.7"] {
+[class^=ping] path[d^="M18.09 14.63c.4-.7"] {
     fill: var(--red-400) !important;
 }
 
 /*--- Media Channels ---*/
-[class$=icon] path[d^="M19.91 14.63a1.06"] {
+[class^=icon] path[d^="M19.91 14.63a1.06"] {
     fill: var(--red-400) !important;
     border: 1px solid rebeccapurple !important;
 }
@@ -45,4 +45,5 @@ I forgot to actually write down what this is meant todo so until then this will 
     stroke: var(--status-danger-background) !important ;
 }
 */
+
 
