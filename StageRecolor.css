@@ -2,7 +2,7 @@
 * @name Stage Recolor
 * @author KrystalSkullOfficial
 * @description Recolors the icon for stages so they are easier to see/notice.
-* @version 7.0.0
+* @version 7.5.0
 * @authorId 929208515883569182
 * @website https://krstlskll69.github.io/
 * @source https://github.com/KrstlSkll69/vc-snippets?tab=readme-ov-file#5th-stage-icon-recolor-
@@ -10,21 +10,21 @@
 
 /*--- Channel List Outer Circle Icon Recolor ---*/
 /*--- Chat Icon Recolor ---*/
-[class$=icon] path[d^="M19.61 18.25a1.08"] {
+[class^=icon] path[d^="M19.61 18.25a1.08"] {
     color: var(--blue-330) !important;
 }
 
 /*--- Channel List Outer Circle Icon Recolor(Locked Stage) ---*/
-[class$=icon] path[d^="M21.92 14.08c.32"]{
+[class^=icon] path[d^="M21.92 14.08c.32"]{
     color: var(--blue-330) !important;
 }
 
 /*--- Stupid Ahh channel search icon ---*/
-[class$=searchResultChannelIcon] path[d^="M19.61 18.25a1.08 1.08 0 0 1-.07-1.33" ] {
+[class^=searchResultChannelIcon] path[d^="M19.61 18.25a1.08 1.08 0 0 1-.07-1.33" ] {
     fill: var(--blue-330) !important;
 }
 
 /*--- Stupid Ahh channel search icon(Locked Stage) ---*/
-[class$=searchResultChannelIcon] path[d^="M21.92 14.08c.32.27.86.15.93-.26A11" ] {
+[class^=searchResultChannelIcon] path[d^="M21.92 14.08c.32.27.86.15.93-.26A11" ] {
     fill: var(--blue-330) !important;
 }
