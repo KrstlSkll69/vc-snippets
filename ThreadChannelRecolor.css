@@ -1,0 +1,13 @@
+/**
+* @name Thread recolor
+* @author krystalskullofficial
+* @description Recolors the icon for 'NSFW' channels so they are easier to see/notice.
+* @version 7.5.0
+* @authorId 929208515883569182
+* @website https://krstlskll69.github.io/
+* @source https://github.com/KrstlSkll69/vc-snippets?tab=readme-ov-file#2nd-nsfw-channel-recolor-
+*/
+
+[class^=icon] path[d^='M18.91 12.98a5.45 5.45 0 0 1 2.18'] {
+    fill: var(--green-400);
+}

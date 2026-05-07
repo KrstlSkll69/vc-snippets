@@ -141,11 +141,10 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/Recolo
 
 #### 9th: hidePinDiscovery ~ Hides the Discovery Icon  
 </br>
-Github: </br>
+Github:
 ```
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/hideGlobalDiscovery.css
 ```
-</br>
 
 ----
 
@@ -213,6 +212,17 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/SyncedWithGameRec
 
 BEFORE AND AFTER: 
 (hopfully you can tell which is which)
+
+![Before](https://cdn.nest.rip/uploads/cfb37cfb-a684-4bf0-ac83-4cf442892dda.png)
+![After](https://cdn.nest.rip/uploads/a8a5791f-0c51-4004-a58b-39721dd7ba53.png)
+</br>
+Github:
+```
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/better-foward-icon.css
+```
+---
+
+#### 15th: Thead Icon Recolor ~   
 
 ![Before](https://cdn.nest.rip/uploads/cfb37cfb-a684-4bf0-ac83-4cf442892dda.png)
 ![After](https://cdn.nest.rip/uploads/a8a5791f-0c51-4004-a58b-39721dd7ba53.png)
