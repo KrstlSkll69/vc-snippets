@@ -225,8 +225,8 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/better
 
 BEFORE AND AFTER:
 
-![Before](https://i.imgur.com/sCkfYqr.png)
-![After](https://i.imgur.com/HMNJwPl.png)
+![Before](https://i.imgur.com/ke220VE.png)
+![After](https://i.imgur.com/UPx0jzi.png)
 </br>
 Github:
 ```
