@@ -1,11 +1,11 @@
 # VC-css_snippets
 # These CSS Snippets were built to work with Vencord, so I am unsure if they will work with other client mods.
 
-Important - 
+Important -
 1. As a native english speaker these snippets were and are developed with that language, I cant not guarantee that they will work with any-other language
 2. As per a request 'NSFW' Label now appears that top of chat
 3. There is no icon diff for a stage marked 'NSFW' on desktop so those arnt labeled *(until i find a way to label them)*
-4. MaxWell is joke snippet ~ cant not guarantee that he wont actually steal your soul  
+4. MaxWell is joke snippet ~ cant not guarantee that he wont actually steal your soul
 
 ----
 
@@ -52,7 +52,7 @@ Github:
 ```
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/PrivateChannelRecolor.css
 ```
----- 
+----
 
 #### 4th: Channels & Roles Recolor ~
 Recolors the icon on Channel & Role tab so they are easier to see/notice
@@ -97,7 +97,7 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/IconRecolors.css
 
 #### 7th: ShowBoth@andStatus ~ This Snippet shows both your discord username and status at the same time
 
-BEFORE AND AFTER: 
+BEFORE AND AFTER:
 (hopfully you can tell which is which)
 
 ![Before](https://cdn.nest.rip/uploads/6ef16d0d-ddfa-4531-8b49-7a753b1be8c4.png) </b>
@@ -120,15 +120,15 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/ViewBo
 
 ----
 
-#### 8th: "Add Friends" tab recolour ~ Recolours the "Add Friend" tab so it matchs with the tabs    
+#### 8th: "Add Friends" tab recolour ~ Recolours the "Add Friend" tab so it matchs with the tabs
 _Note: this snippet requires Vencord's ["ThemeAttributes"](https://vencord.dev/plugins/ThemeAttributes) plugin_
 
-BEFORE AND AFTER: 
+BEFORE AND AFTER:
 (hopfully you can tell which is which) </br>
 ![BeforeRecolor](https://cdn.nest.rip/uploads/c46e1af2-cb5d-4214-9418-dd6e08ed2bf9.png)
 ![AfterRecolor](https://cdn.nest.rip/uploads/c4a990a2-c5ec-4c9e-89c4-18e2675bc39e.png)
 
-BEFORE AND AFTER _while tab is selected_: 
+BEFORE AND AFTER _while tab is selected_:
 (Hopfully you can tell which is which) </br>
 ![BeforeRecolorWhileTabSelected](https://cdn.nest.rip/uploads/d4a09457-9be9-43e3-a405-a549b8ea88e5.png)
 ![AfterRecolorWhileTabSelected](https://cdn.nest.rip/uploads/ffb0d9ab-eb95-4cec-b79e-ea9f8a7f7d7d.png)
@@ -139,17 +139,15 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/Recolo
 ```
 ----
 
-#### 9th: hidePinDiscovery ~ Hides the Discovery Icon  
-</br>
-Github: </br>
+#### 9th: hidePinDiscovery ~ Hides the Discovery Icon
+Github:
 ```
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/hideGlobalDiscovery.css
 ```
-</br>
 
 ----
 
-####  10th: cat (it watches your soul) ~   
+####  10th: cat (it watches your soul) ~
 _Note: this snippet requires Vencord's ["ThemeAttributes"](https://vencord.dev/plugins/ThemeAttributes) plugin_
 
 ![MaxWell](https://cdn.nest.rip/uploads/06a43131-f624-4209-8589-08c782ac31d2.png)
@@ -160,7 +158,7 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/Maxwel
 ```
 ---
 
-#### 11th: Better Social Links (fork) ~   
+#### 11th: Better Social Links (fork) ~
 
  - Discord's social links ~
 
@@ -181,9 +179,9 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/better
 ```
 ---
 
-#### 12th: Swap Mic and Deafen Icon ~   
+#### 12th: Swap Mic and Deafen Icon ~
 
-BEFORE AND AFTER: 
+BEFORE AND AFTER:
 (hopfully you can tell which is which)
 
 ![Before](https://cdn.nest.rip/uploads/5bfa6a84-e80d-42c8-a433-1a7a5083c457.png)
@@ -195,9 +193,9 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/swapMi
 ```
 ---
 
-#### 13th: Synced With Game Recolor ~   
+#### 13th: Synced With Game Recolor ~
 
-BEFORE AND AFTER: 
+BEFORE AND AFTER:
 (hopfully you can tell which is which)
 
 ![Before](https://cdn.nest.rip/uploads/5a126a41-b11f-47cf-83a5-a7050bf47916.png)
@@ -209,9 +207,9 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/SyncedWithGameRec
 ```
 ---
 
-#### 14th: Better Forward Icon ~   
+#### 14th: Better Forward Icon ~
 
-BEFORE AND AFTER: 
+BEFORE AND AFTER:
 (hopfully you can tell which is which)
 
 ![Before](https://cdn.nest.rip/uploads/cfb37cfb-a684-4bf0-ac83-4cf442892dda.png)
@@ -220,6 +218,19 @@ BEFORE AND AFTER:
 Github:
 ```
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/better-foward-icon.css
+```
+---
+
+#### 15th: Thead Icon Recolor ~
+
+BEFORE AND AFTER:
+
+![Before](https://i.imgur.com/ke220VE.png)
+![After](https://i.imgur.com/UPx0jzi.png)
+</br>
+Github:
+```
+https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/refs/heads/main/ThreadChannelRecolor.css
 ```
 ---
 
