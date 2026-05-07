@@ -224,6 +224,7 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/better
 #### 15th: Thead Icon Recolor ~
 
 BEFORE AND AFTER:
+
 ![Before](https://i.imgur.com/sCkfYqr.png)
 ![After](https://i.imgur.com/HMNJwPl.png)
 </br>
