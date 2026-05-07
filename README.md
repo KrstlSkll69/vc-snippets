@@ -140,7 +140,6 @@ https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/Recolo
 ----
 
 #### 9th: hidePinDiscovery ~ Hides the Discovery Icon  
-</br>
 Github:
 ```
 https://raw.githubusercontent.com/KrstlSkll69/vc-snippets/main/OtherStuff/hideGlobalDiscovery.css
