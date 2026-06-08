@@ -131,3 +131,6 @@ img[src="/assets/a61999ae9bfb9658.svg"],[src="/assets/f3c7469988f0ce3a02e4.svg"]
 button[class*="accountBtnInner_"][aria-label='X'], button[class*='accountButtonInner_'][aria-label='X'] {
     background-image: url(https://cdn.discordapp.com/emojis/1355365593414504528.png) !important;
 }
+
+/* fix twitter in expanded profile connections */
+img[alt='X Logo'] {content: url(https://cdn.discordapp.com/emojis/1355365593414504528.png);}
