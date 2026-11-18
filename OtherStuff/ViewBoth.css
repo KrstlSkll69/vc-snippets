@@ -17,19 +17,19 @@ This is a custom variable that someone can use to give themself a custom 'discri
 
 */
 
-[class*=avatarWrapper] [class*=nameTag] [class*=hovered]::before{
+[class*=nameTag_] [class*=panelSubtextContainer_] [class*=hovered_]::before{
   color: var(--text-muted);
   content: "@";
 }
 
-[class*=avatarWrapper] [class*=nameTag] [class*=hovered]::after{
+[class*=nameTag_] [class*=panelSubtextContainer_] [class*=hovered_]::after{
   color: var(--text-muted);
   content: var(--Discriminator-ShowBoth);
-  font-family: var(--font-code) !important;
+  font-family: var(--font-code);
 }
 
 
-.container__37e49 .hovered__0263c, .hoverRoll__0263c.forceHover__0263c:not(.disabled__0263c) .default__0263c{
+.container_g6VwXp .hovered_Dq3ch1, .hoverRoll_Dq3ch1.forceHover_Dq3ch1:not(.disabled_Dq3ch1) .default_Dq3ch1{
   opacity: 1!important;
   transform: none;
 }
