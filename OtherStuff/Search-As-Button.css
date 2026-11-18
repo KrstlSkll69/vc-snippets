@@ -2,41 +2,19 @@
 * @name Search As Button
 * @author Madeline, KrystalSkullOfficial
 * @description Makes Search Icon a button.
-* @version 3.5
+* @version 4.0
 */
 
-.search__97492:not(.open__97492)>.searchBar__97492 {
+.search_i16Ad0:not(.open_i16Ad0)>.searchBar_i16Ad0 {
     width: 30px;
     background: transparent;
     border: none;
 }
 
-.search__97492:not(.open__97492) .iconLayout_fea832 {
+.search_i16Ad0:not(.open_i16Ad0) .iconLayout_fea832 {
     cursor: pointer;
 }
 
-.search__97492:not(.open__97492):hover .icon_fea832 {
+.search_i16Ad0:not(.open_i16Ad0):hover .icon_fea832 {
     color: var(--icon-secondary);
-}
-
-.open__97492 .iconContainer_fea832 {
-    top: -1px;
-}
-
-.visual-refresh .iconContainer_fea832 {
-    margin-bottom: -6px !important;
-    width: 20px;
-    height: 20px;
-    left: -8px;
-    color: var(--icon-tertiary);
-    right: 0
-}
-
-/*-- TODO: Remove this once its for sure no one is on the OLD-UI --*/
-.iconContainer_fea832 {
-    margin-bottom: 0px !important;
-    width: 20px;
-    height: 20px;
-    left: -8px;
-    color: var(--icon-tertiary);
 }
